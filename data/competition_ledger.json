@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T23:00:09.468901",
+  "last_updated": "2026-05-03T23:00:08.780703",
   "equity": {
     "total_trades": 16,
     "wins": 10,
@@ -17,8 +17,8 @@
       "symbol": "NTAP",
       "roi": -2.45
     },
-    "last_30d_trades": 14,
-    "last_30d_win_rate": 0.571
+    "last_30d_trades": 13,
+    "last_30d_win_rate": 0.615
   },
   "crypto": {
     "total_trades": 3,
@@ -37,8 +37,8 @@
     },
     "current_streak": 2,
     "streak_type": "LOSS",
-    "last_30d_trades": 3,
-    "last_30d_win_rate": 0.333
+    "last_30d_trades": 2,
+    "last_30d_win_rate": 0.0
   },
   "competition": {
     "leader": "EQUITY",
@@ -230,6 +230,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-03T18:05:01.878870"
+    "generated_at": "2026-05-03T23:00:09.968825"
   }
 }
