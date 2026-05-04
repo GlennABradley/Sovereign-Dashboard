@@ -1,20 +1,20 @@
 {
-  "ts": "2026-05-04T15:00:01.153275",
-  "generated": "03:00:01 PM",
+  "ts": "2026-05-04T15:05:00.515897",
+  "generated": "03:05:00 PM",
   "paper": {
-    "equity": 101256.92,
+    "equity": 101259.49,
     "cash": 94061.46,
-    "day_pnl": -118.86,
-    "day_pnl_pct": -0.117,
+    "day_pnl": -116.29,
+    "day_pnl_pct": -0.115,
     "positions": [
       {
         "sym": "SLB",
         "qty": 128.5018,
-        "price": 55.995,
+        "price": 56.015,
         "entry": 56.5,
-        "pnl_pct": -0.89,
-        "pnl": -64.89,
-        "mkt_val": 7195.46
+        "pnl_pct": -0.86,
+        "pnl": -62.32,
+        "mkt_val": 7198.03
       }
     ]
   },
