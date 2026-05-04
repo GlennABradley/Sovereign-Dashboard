@@ -1,22 +1,9 @@
 {
-  "ts": "2026-05-04T10:10:00.847868",
-  "generated": "10:10:00 AM",
+  "ts": "2026-05-04T10:15:00.726955",
+  "generated": "10:15:00 AM",
   "paper": {
-    "equity": 101343.01,
-    "cash": 94061.46,
-    "day_pnl": -32.77,
-    "day_pnl_pct": -0.032,
-    "positions": [
-      {
-        "sym": "SLB",
-        "qty": 128.5018,
-        "price": 56.665,
-        "entry": 56.5,
-        "pnl_pct": 0.29,
-        "pnl": 21.2,
-        "mkt_val": 7281.55
-      }
-    ]
+    "equity": 0,
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without"
   },
   "live": {
     "equity": 0.0,
