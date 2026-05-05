@@ -10,7 +10,7 @@
     "exit": 55.65,
     "pnl": -109.23,
     "pct": -1.5,
-    "outcome": "LOSS",
+    "outcome": "EXCLUDED",
     "hold_days": 5,
     "reason": "Stop loss hit: -1.5%",
     "regime": "CHOPPY_RANGING",

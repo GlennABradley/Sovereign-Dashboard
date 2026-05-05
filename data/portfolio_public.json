@@ -1,17 +1,11 @@
 {
-  "position_count": 1,
-  "symbols": [
-    "SLB"
-  ],
-  "regimes": [
-    "CHOPPY_RANGING"
-  ],
-  "strategies": [
-    "swing"
-  ],
+  "position_count": 0,
+  "symbols": [],
+  "regimes": [],
+  "strategies": [],
   "last_updated": "2026-05-05",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T10:11:55.773866"
+    "generated_at": "2026-05-05T10:27:02.716009"
   }
 }

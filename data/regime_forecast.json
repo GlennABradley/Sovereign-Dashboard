@@ -16,8 +16,8 @@
     "vix_above_30": 0,
     "credit_spread": 350.0,
     "credit_elevated": 0,
-    "spy_momentum_20d": 0.0969,
-    "spy_vs_200ma": 0.0576,
+    "spy_momentum_20d": 0.097,
+    "spy_vs_200ma": 0.0578,
     "spy_below_200ma": 0,
     "breadth": 0.5,
     "breadth_weak": 0,
@@ -26,6 +26,6 @@
     "fear_greed": 50.0,
     "extreme_fear": 0
   },
-  "generated_at": "2026-05-05T10:09:20.639085",
-  "valid_until": "2026-05-08T10:09:20.639088"
+  "generated_at": "2026-05-05T10:12:08.923978",
+  "valid_until": "2026-05-08T10:12:08.923980"
 }

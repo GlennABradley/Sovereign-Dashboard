@@ -427,11 +427,11 @@
       "fear_greed": 50,
       "trades": 1,
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "trade_list": [
         {
           "ticker": "SLB",
-          "outcome": "LOSS",
+          "outcome": "EXCLUDED",
           "pnl_pct": -1.5
         }
       ]
@@ -449,10 +449,10 @@
       "days": 20,
       "trades": 12,
       "wins": 7,
-      "losses": 5,
+      "losses": 4,
       "win_rate": 0.583
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-05T10:11:57.187142"
+  "generated_at": "2026-05-05T10:27:03.786998"
 }
