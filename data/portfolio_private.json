@@ -2,15 +2,15 @@
   "cash": 94061.46,
   "start_of_day_value": 101375.78,
   "positions": {},
-  "last_updated": "2026-05-05T08:57:19.167447",
+  "last_updated": "2026-05-05T09:02:29.781775",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T08:57:19.167486"
+    "generated_at": "2026-05-05T09:02:29.781826"
   },
   "equity_cash": 94061.46,
-  "equity_pos_value": 7151.13,
+  "equity_pos_value": 7156.27,
   "crypto_pos_value": 0,
-  "combined_value": 101212.59,
+  "combined_value": 101217.73,
   "equity_positions": {
     "SLB": {
       "ticker": "SLB",
@@ -32,7 +32,7 @@
       "invalidation_signal": "Stop triggers at $54.05 (1.5\u00d7 ATR below entry, -4.5% risk). Thesis breaks immediately if: (1) Energy sector (XLE) loses rank-2 leadership position or XLE momentum drops below +2.0 (sector rotation reversal), (2) RS decelerates below 2.5x SPY (institutional distribution signal), or (3) SLB closes below its 5-day post-earnings low \u2014 any of these conditions, not just the price level, constitute thesis invalidation requiring immediate exit regardless of P&L.",
       "symbol": "SLB",
       "qty": 128.5018,
-      "live_price": 55.65
+      "live_price": 55.69
     }
   },
   "portfolio_snapshots": [
@@ -248,7 +248,7 @@
     },
     {
       "date": "2026-05-05",
-      "value": 101212.59,
+      "value": 101217.73,
       "sod": 101375.78
     }
   ]
