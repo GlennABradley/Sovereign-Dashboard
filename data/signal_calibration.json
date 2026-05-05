@@ -23,9 +23,11 @@
       "live_weighted": false
     },
     "CHOPPY_RANGING": {
-      "win_rate": 0.778,
-      "n": 9.0,
-      "live_weighted": false
+      "wins": 0,
+      "total": 1,
+      "avg_pnl": -0.0045,
+      "win_rate": 0.0,
+      "last_fast_update": "2026-05-05T08:55"
     },
     "ACCUMULATION_EXTREME_FEAR": {
       "win_rate": 0.5,

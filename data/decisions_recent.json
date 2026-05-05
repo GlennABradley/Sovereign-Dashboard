@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-05T08:57",
+    "ticker": "CRWD",
+    "symbol": "CRWD",
+    "action": "SKIP",
+    "confidence": 0.67,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-04-30T15:09",
     "ticker": "SLB",
     "symbol": "SLB",
@@ -85,16 +95,6 @@
     "symbol": "CEG",
     "action": "SKIP",
     "confidence": 0.51,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-04-26T19:10",
-    "ticker": "TXN",
-    "symbol": "TXN",
-    "action": "SKIP",
-    "confidence": 0.0,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false

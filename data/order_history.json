@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-05-05",
+    "ticker": "SLB",
+    "symbol": "SLB",
+    "bot": "equity",
+    "side": "SELL",
+    "action": "SELL",
+    "entry": 56.5,
+    "exit": 55.65,
+    "pnl": -109.23,
+    "pct": -1.5,
+    "outcome": "LOSS",
+    "hold_days": 5,
+    "reason": "Stop loss hit: -1.5%",
+    "regime": "CHOPPY_RANGING",
+    "timestamp": "2026-05-05"
+  },
+  {
     "date": "2026-04-28",
     "ticker": "PANW",
     "symbol": "PANW",

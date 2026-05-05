@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-03-31",
-      "regime": "BEAR_HIGH_VOL",
-      "vix": 28.1,
-      "fear_greed": 11,
-      "trades": 0,
-      "wins": 0,
-      "losses": 0,
-      "trade_list": []
-    },
-    {
       "date": "2026-04-01",
       "regime": "BEAR_HIGH_VOL",
       "vix": 24.6,
@@ -429,24 +419,40 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-05",
+      "regime": "CHOPPY_RANGING",
+      "vix": 17.6,
+      "fear_greed": 50,
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "trade_list": [
+        {
+          "ticker": "SLB",
+          "outcome": "LOSS",
+          "pnl_pct": -1.5
+        }
+      ]
     }
   ],
   "regime_summary": {
     "BEAR_HIGH_VOL": {
-      "days": 6,
+      "days": 5,
       "trades": 3,
       "wins": 1,
       "losses": 2,
       "win_rate": 0.333
     },
     "CHOPPY_RANGING": {
-      "days": 19,
-      "trades": 11,
+      "days": 20,
+      "trades": 12,
       "wins": 7,
-      "losses": 4,
-      "win_rate": 0.636
+      "losses": 5,
+      "win_rate": 0.583
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-04T14:30:13.065980"
+  "generated_at": "2026-05-05T08:57:19.182776"
 }
