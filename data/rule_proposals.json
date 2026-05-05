@@ -48,7 +48,7 @@
       "proposal_id": "regime_edge_CHOPPY_RANGING",
       "status": "VALIDATING",
       "proposed_at": "2026-04-20T23:03:17.985541",
-      "validating_trades": 6,
+      "validating_trades": 7,
       "validating_wins": 4,
       "adopted_at": null,
       "rejected_at": null,
@@ -91,7 +91,7 @@
       "notes": []
     }
   },
-  "last_run": "2026-05-03T23:00:36.981014",
+  "last_run": "2026-05-05T10:11:33.952039",
   "total": 5,
   "adopted": 0,
   "validating": 2,
