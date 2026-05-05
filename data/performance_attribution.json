@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-03",
-  "total_trades": 19,
+  "generated_at": "2026-05-05",
+  "total_trades": 20,
   "tribunal": {
     "tribunal_vetoes": 7,
     "tribunal_approvals": 26,
-    "live_win_rate": 0.579,
-    "live_total_trades": 19,
+    "live_win_rate": 0.55,
+    "live_total_trades": 20,
     "tribunal_veto_rate": 0.212,
-    "insight": "Tribunal vetoed 7 trades. Live win rate: 58%"
+    "insight": "Tribunal vetoed 7 trades. Live win rate: 55%"
   },
   "regime_performance": {
     "best_regime": "BEAR_HIGH_VOL",
@@ -29,21 +29,21 @@
         "n": 6
       },
       "CHOPPY_RANGING": {
-        "win_rate": 0.6,
-        "avg_pnl": 1.2,
-        "n": 10
+        "win_rate": 0.545,
+        "avg_pnl": 0.9545,
+        "n": 11
       }
     }
   },
   "kelly_performance": {
     "small": {
-      "win_rate": 0.579,
-      "n": 19
+      "win_rate": 0.55,
+      "n": 20
     }
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T10:05:05.106956"
+    "generated_at": "2026-05-05T10:08:13.806766"
   },
-  "top_insight": "Best regime: BEAR_HIGH_VOL | Tribunal veto rate: 21% | Total trades: 19"
+  "top_insight": "Best regime: BEAR_HIGH_VOL | Tribunal veto rate: 21% | Total trades: 20"
 }
