@@ -25,7 +25,7 @@
       },
       "BEAR_HIGH_VOL": {
         "win_rate": 0.667,
-        "avg_pnl": 1.6633,
+        "avg_pnl": 1.5724,
         "n": 6
       },
       "CHOPPY_RANGING": {
@@ -43,7 +43,7 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T18:05:02.258691"
+    "generated_at": "2026-05-05T23:00:15.767618"
   },
   "top_insight": "Best regime: BEAR_HIGH_VOL | Tribunal veto rate: 21% | Total trades: 20"
 }

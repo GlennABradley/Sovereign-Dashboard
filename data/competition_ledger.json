@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-05T10:23:50.942397",
+  "last_updated": "2026-05-05T23:00:14.915327",
   "equity": {
-    "total_trades": 16,
+    "total_trades": 17,
     "wins": 10,
     "losses": 6,
-    "win_rate": 0.625,
+    "win_rate": 0.588,
     "sharpe_proxy": 0.39,
     "current_streak": 1,
-    "streak_type": "LOSS",
+    "streak_type": "EXCLUDED",
     "avg_roi": 1.205,
     "best_trade": {
       "symbol": "PANW",
@@ -18,8 +18,7 @@
       "roi": -2.45
     },
     "last_30d_trades": 14,
-    "last_30d_win_rate": 0.571,
-    "notes": "SLB (2026-05-05) excluded from record \u2014 operator unavailable during hold period"
+    "last_30d_win_rate": 0.571
   },
   "crypto": {
     "total_trades": 3,
@@ -231,6 +230,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T18:05:02.256806"
+    "generated_at": "2026-05-05T23:00:15.766465"
   }
 }

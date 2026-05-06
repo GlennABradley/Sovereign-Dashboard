@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-05T10:11:55.771161",
+  "checked_at": "2026-05-05T23:00:15.458768",
   "gates_passed": 6,
   "gates_total": 7,
   "all_pass": false,
@@ -11,12 +11,12 @@
       "pass": false
     },
     "min_trades": {
-      "value": 19,
+      "value": 20,
       "required": 20,
       "pass": true
     },
     "min_win_rate": {
-      "value": 0.579,
+      "value": 0.55,
       "required": 0.55,
       "pass": true
     },
@@ -47,7 +47,7 @@
     "max_drawdown": 0.050371113757599985,
     "sharpe": 6.425263387093332,
     "streak": 1,
-    "streak_type": "LOSS"
+    "streak_type": "EXCLUDED"
   },
   "crypto_stats": {
     "trades": 3,
@@ -59,6 +59,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-05T18:05:02.258205"
+    "generated_at": "2026-05-05T23:00:15.767354"
   }
 }
