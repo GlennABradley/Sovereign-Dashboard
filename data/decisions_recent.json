@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-06T11:30",
+    "ticker": "AAPL",
+    "symbol": "AAPL",
+    "action": "SKIP",
+    "confidence": 0.73,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-05T15:08",
     "ticker": "BG",
     "symbol": "BG",
@@ -85,16 +95,6 @@
     "symbol": "CEG",
     "action": "SKIP",
     "confidence": 0.71,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-04-27T09:36",
-    "ticker": "CEG",
-    "symbol": "CEG",
-    "action": "SKIP",
-    "confidence": 0.69,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
