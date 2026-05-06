@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-05T10:12:00.435620",
+  "generated_at": "2026-05-05T23:00:19.150315",
   "total_trades": 20,
   "regime_stats": {
     "BEAR_HIGH_VOL": {
       "wins": 3,
       "losses": 1,
-      "total_pnl": 4.68,
+      "total_pnl": 4.1341,
       "n": 4,
       "win_rate": 0.75,
-      "avg_pnl": 1.17
+      "avg_pnl": 1.034
     },
     "CHECK": {
       "wins": 0,
@@ -55,10 +55,10 @@
     "Energy": {
       "wins": 1,
       "losses": 0,
-      "total_pnl": 0.53,
+      "total_pnl": -0.0159,
       "n": 1,
       "win_rate": 1.0,
-      "avg_pnl": 0.53
+      "avg_pnl": -0.016
     },
     "Industrials": {
       "wins": 1,

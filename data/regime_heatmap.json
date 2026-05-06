@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-01",
-      "regime": "BEAR_HIGH_VOL",
-      "vix": 24.6,
-      "fear_greed": 8,
-      "trades": 0,
-      "wins": 0,
-      "losses": 0,
-      "trade_list": []
-    },
-    {
       "date": "2026-04-02",
       "regime": "BEAR_HIGH_VOL",
       "vix": 27.6,
@@ -435,11 +425,21 @@
           "pnl_pct": -1.5
         }
       ]
+    },
+    {
+      "date": "2026-05-06",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "BEAR_HIGH_VOL": {
-      "days": 5,
+      "days": 4,
       "trades": 3,
       "wins": 1,
       "losses": 2,
@@ -454,5 +454,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-05T23:00:15.763552"
+  "generated_at": "2026-05-06T00:05:01.894091"
 }
