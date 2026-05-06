@@ -40,16 +40,6 @@
     "_skip_candidate": false
   },
   {
-    "timestamp": "2026-04-30T09:03",
-    "ticker": "ALL_CANDIDATES",
-    "symbol": "ALL_CANDIDATES",
-    "action": "SKIP",
-    "confidence": 0.0,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
     "timestamp": "2026-04-29T15:08",
     "ticker": "SBUX",
     "symbol": "SBUX",
@@ -95,6 +85,16 @@
     "symbol": "CEG",
     "action": "SKIP",
     "confidence": 0.71,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
+    "timestamp": "2026-04-27T09:36",
+    "ticker": "CEG",
+    "symbol": "CEG",
+    "action": "SKIP",
+    "confidence": 0.69,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
