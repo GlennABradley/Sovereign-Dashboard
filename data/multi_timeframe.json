@@ -2,14 +2,12 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 1,
-      "score": 1,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "1H_EMA20_ABOVE_EMA50"
-      ],
-      "sizing_mult": 0.5,
-      "timestamp": "2026-05-06T18:00:19.907634"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-05-07T00:02:16.346179"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -22,7 +20,7 @@
         "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-06T18:00:12.172014"
+      "timestamp": "2026-05-07T00:02:10.111301"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -30,23 +28,25 @@
       "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "1H_ABOVE_EMA20"
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-06T18:00:16.166927"
+      "timestamp": "2026-05-07T00:02:13.615604"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
-      "intraday_score": 1,
-      "score": 1,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_EMA20_ABOVE_EMA50"
+        "4H_EMA20_ABOVE_EMA50",
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
-      "sizing_mult": 0.5,
-      "timestamp": "2026-04-09T03:39:57.016507"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-07T00:02:22.228315"
     },
     "ARB/USD": {
       "symbol": "ARB/USD",
@@ -111,17 +111,17 @@
       "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "1H_ABOVE_EMA20"
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-06T18:00:22.933223"
+      "timestamp": "2026-05-07T00:02:19.213279"
     }
   },
-  "last_updated": "2026-05-06T23:00:12.460161",
+  "last_updated": "2026-05-07T00:05:01.606717",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-06T23:00:12.460182"
+    "generated_at": "2026-05-07T00:05:01.606738"
   }
 }
