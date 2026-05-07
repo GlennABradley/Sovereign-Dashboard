@@ -2,12 +2,15 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-07T00:02:16.346179"
+      "signals": [
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
+      ],
+      "sizing_mult": 0.75,
+      "timestamp": "2026-05-07T06:00:17.469531"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -17,10 +20,10 @@
       "signals": [
         "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T00:02:10.111301"
+      "timestamp": "2026-05-07T06:00:11.366230"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -28,12 +31,12 @@
       "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T00:02:13.615604"
+      "timestamp": "2026-05-07T06:00:14.612537"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -41,12 +44,12 @@
       "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T00:02:22.228315"
+      "timestamp": "2026-05-07T06:00:22.811601"
     },
     "ARB/USD": {
       "symbol": "ARB/USD",
@@ -111,17 +114,17 @@
       "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T00:02:19.213279"
+      "timestamp": "2026-05-07T06:00:20.160216"
     }
   },
-  "last_updated": "2026-05-07T00:05:01.606717",
+  "last_updated": "2026-05-07T06:05:01.934374",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-07T00:05:01.606738"
+    "generated_at": "2026-05-07T06:05:01.934396"
   }
 }
