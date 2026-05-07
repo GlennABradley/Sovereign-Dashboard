@@ -10,20 +10,19 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-05-07T06:00:17.469531"
+      "timestamp": "2026-05-07T10:00:17.782179"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 3,
-      "score": 3,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
       "signals": [
-        "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
         "1H_RSI_HEALTHY"
       ],
-      "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T06:00:11.366230"
+      "sizing_mult": 0.75,
+      "timestamp": "2026-05-07T10:00:11.477277"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -31,12 +30,12 @@
       "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "1H_ABOVE_EMA20"
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T06:00:14.612537"
+      "timestamp": "2026-05-07T10:00:14.911210"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -49,7 +48,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T06:00:22.811601"
+      "timestamp": "2026-05-07T10:00:26.149161"
     },
     "ARB/USD": {
       "symbol": "ARB/USD",
@@ -119,12 +118,12 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-07T06:00:20.160216"
+      "timestamp": "2026-05-07T10:00:23.226918"
     }
   },
-  "last_updated": "2026-05-07T09:33:48.226582",
+  "last_updated": "2026-05-07T10:05:02.653462",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-07T09:33:48.226622"
+    "generated_at": "2026-05-07T10:05:02.653484"
   }
 }
