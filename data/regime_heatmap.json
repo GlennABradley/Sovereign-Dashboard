@@ -423,7 +423,7 @@
     {
       "date": "2026-05-07",
       "regime": "CHOPPY_RANGING",
-      "vix": 17.4,
+      "vix": 17.3,
       "fear_greed": 47,
       "trades": 0,
       "wins": 0,
@@ -448,5 +448,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-07T09:01:09.229076"
+  "generated_at": "2026-05-07T09:33:48.234171"
 }
