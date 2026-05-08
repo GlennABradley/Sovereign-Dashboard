@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-05-06T23:00:12.166648",
+  "checked_at": "2026-05-07T23:00:16.252425",
   "gates_passed": 6,
   "gates_total": 7,
   "all_pass": false,
   "readiness_pct": 86,
   "gates": {
     "paper_days": {
-      "value": 44,
+      "value": 45,
       "required": 90,
       "pass": false
     },
@@ -36,7 +36,7 @@
       "pass": true
     },
     "tribunal_veto_rate": {
-      "value": 0.385,
+      "value": 0.357,
       "required": 0.4,
       "pass": true
     }
@@ -59,6 +59,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-07T18:05:02.030288"
+    "generated_at": "2026-05-07T23:00:16.757909"
   }
 }
