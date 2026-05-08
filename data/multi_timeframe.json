@@ -6,23 +6,24 @@
       "score": 2,
       "max_score": 6,
       "signals": [
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "4H_ABOVE_EMA20",
+        "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-05-08T10:00:21.000317"
+      "timestamp": "2026-05-08T18:00:21.444994"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-08T10:00:17.923981"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-08T18:00:17.994003"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -31,11 +32,11 @@
       "max_score": 6,
       "signals": [
         "4H_ABOVE_EMA20",
-        "4H_RSI_HEALTHY",
+        "4H_EMA20_ABOVE_EMA50",
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-08T10:00:12.559474"
+      "timestamp": "2026-05-08T18:00:14.043587"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -44,11 +45,11 @@
       "max_score": 6,
       "signals": [
         "4H_ABOVE_EMA20",
-        "4H_RSI_HEALTHY",
+        "4H_EMA20_ABOVE_EMA50",
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-08T10:00:26.642146"
+      "timestamp": "2026-05-08T18:00:28.235807"
     },
     "ARB/USD": {
       "symbol": "ARB/USD",
@@ -125,16 +126,16 @@
       "max_score": 6,
       "signals": [
         "4H_ABOVE_EMA20",
-        "4H_RSI_HEALTHY",
+        "4H_EMA20_ABOVE_EMA50",
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-08T10:00:23.924146"
+      "timestamp": "2026-05-08T18:00:25.035264"
     }
   },
-  "last_updated": "2026-05-08T17:00:02.819113",
+  "last_updated": "2026-05-08T18:05:03.030931",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-08T17:00:02.819133"
+    "generated_at": "2026-05-08T18:05:03.030951"
   }
 }
