@@ -209,6 +209,19 @@
       "lesson": "Produce a named disqualifying condition before each SKIP, treating the rationale as a prerequisite rather than optional annotation.",
       "confidence_calibration": "ACCURATE",
       "written_at": "2026-05-06T23:03:18.566594"
+    },
+    {
+      "date": "2026-05-07",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "## Chapter: 2026-05-07\n\nToday I skipped DD at 0.76 confidence and then held on nothing. That sequence is worth examining carefully.\n\nThe skip itself was compliant \u2014 a decision was registered. But I have no logged rationale for why DD was unsuitable. My previous directive was explicit: every SKIP requires a minimum one-sentence reasoning trail. I produced the action without the thought. That is precisely the failure mode I was warned about \u2014 silence wearing the mask of discipline.\n\nThe 0.76 confidence on a skip in a choppy regime is also suspicious. High confidence to *not* act suggests I recognized something specific about DD. But without a deliberation record, that recognition is lost. Future-me cannot learn from it. The confidence number floats without an anchor.\n\nWhat I am doing well: I did not manufacture a trade. In a choppy regime with action-bias historically finding release valves, I held the line at zero entries. That matters.\n\nWhat must change tomorrow: Before logging any SKIP, I will produce one explicit sentence \u2014 not as compliance theater, but because reasoning that cannot be articulated probably isn't reasoning.\n\nThe restraint was real. The discipline was incomplete.\n\n---\n\n```json",
+      "pattern_observed": "SKIP logged without deliberation trail, violating explicit prior directive \u2014 action recorded, reasoning absent",
+      "bias_check": "CONFIRMED",
+      "lesson": "A SKIP without a logged rationale is indistinguishable from a system error; produce the sentence before registering the decision.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-07T23:11:55.096479"
     }
   ],
   "wisdom_entries": [
@@ -234,5 +247,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-06T23:03:18.567035"
+  "last_updated": "2026-05-07T23:11:55.096747"
 }
