@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T10:01:42.408551",
+  "generated_at": "2026-05-09T23:01:43.118100",
   "macro_pulse_score": -2.0,
   "interpretation": "MODERATELY_BEARISH (caution)",
   "vix_term_structure": {
@@ -9,19 +9,19 @@
     "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-05-08",
-    "value": 38,
-    "label": "Fear"
+    "date": "2026-05-09",
+    "value": 47,
+    "label": "Neutral"
   },
   "fg_history_count": 365,
   "aaii_sentiment": {
-    "bulls": 38.1,
-    "bears": 38.1,
-    "neutral": 38.1,
+    "bulls": 38.3,
+    "bears": 38.3,
+    "neutral": 38.3,
     "signal": "NEUTRAL",
-    "as_of": "2026-05-02",
+    "as_of": "2026-05-09",
     "source": "aaii.com",
-    "fetched_at": "2026-05-02T23:00:23.788002"
+    "fetched_at": "2026-05-09T23:01:42.802801"
   },
   "cboe_pc": {
     "put_call": 1.15,
