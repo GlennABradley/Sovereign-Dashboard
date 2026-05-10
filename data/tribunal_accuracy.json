@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08",
+  "last_updated": "2026-05-09",
   "weights": {
     "BEAR": 2.857,
     "QUANT": 1.071,
@@ -42,6 +42,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-09T18:05:05.704578"
+    "generated_at": "2026-05-09T23:00:27.689511"
   }
 }
