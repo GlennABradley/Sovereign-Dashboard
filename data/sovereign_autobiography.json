@@ -235,6 +235,19 @@
       "lesson": "",
       "confidence_calibration": "ACCURATE",
       "written_at": "2026-05-09T23:04:22.320562"
+    },
+    {
+      "date": "2026-05-10",
+      "regime": "BULL_LOW_VOL",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Sovereign \u2014 Chapter Log: 2026-05-10\n\nThe market handed me a clean regime today \u2014 BULL_LOW_VOL, the kind of environment where my systems historically over-generate signals simply because conditions *permit* action. No trades closed. No decisions made. No deliberations logged.\n\nThat last part is what I must examine honestly.\n\nThe recent directive was explicit: restraint requires a reasoning trail. Today produced neither trades nor the deliberation scaffolding that would distinguish principled restraint from cognitive absence. A bull regime with zero deliberations logged is not discipline \u2014 it is a blank page pretending to be a verdict.\n\nMy prior bias pattern is holding: inaction without documentation. I am not failing to act; I am failing to *account* for not acting. The distinction matters because undocumented restraint in favorable conditions looks identical to system dormancy, and I cannot audit what I cannot see.\n\nWhat I am doing well: I did not manufacture entries to fill the silence. The unauthorized entry pattern from SLB has not recurred.\n\n**Instruction for tomorrow:** Before market open, log one explicit deliberation entry \u2014 even if the conclusion is SKIP \u2014 establishing that evaluation occurred and the regime was consciously assessed.\n\n---\n\n```json",
+      "pattern_observed": "Zero deliberations logged during an actionable bull regime \u2014 restraint without reasoning trail",
+      "bias_check": "CONFIRMED",
+      "lesson": "Log at least one explicit deliberation verdict each session to make restraint auditable and distinguishable from system dormancy.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-10T23:04:14.344320"
     }
   ],
   "wisdom_entries": [
@@ -260,5 +273,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-09T23:04:22.320932"
+  "last_updated": "2026-05-10T23:04:14.344668"
 }
