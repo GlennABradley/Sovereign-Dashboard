@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T18:01:24.602761",
+  "generated_at": "2026-05-10T23:01:35.354674",
   "macro_pulse_score": -2.0,
   "interpretation": "MODERATELY_BEARISH (caution)",
   "vix_term_structure": {
@@ -9,8 +9,8 @@
     "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-05-09",
-    "value": 47,
+    "date": "2026-05-10",
+    "value": 48,
     "label": "Neutral"
   },
   "fg_history_count": 365,
