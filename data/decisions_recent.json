@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-12T18:00",
+    "ticker": "BTC/USD",
+    "symbol": "BTC/USD",
+    "action": "SKIP",
+    "confidence": 0.63,
+    "regime": "NEUTRAL",
+    "bot": "crypto",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-12T10:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -85,16 +95,6 @@
     "symbol": "CRWD",
     "action": "SKIP",
     "confidence": 0.67,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-04-30T15:09",
-    "ticker": "SLB",
-    "symbol": "SLB",
-    "action": "BUY",
-    "confidence": 0.81,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false

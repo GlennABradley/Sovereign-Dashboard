@@ -2,41 +2,53 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-12T10:00:21.911396"
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-12T18:00:20.290921"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-12T10:00:17.804398"
+      "signals": [
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
+      ],
+      "sizing_mult": 0.75,
+      "timestamp": "2026-05-12T18:00:17.346092"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
-      "intraday_score": 1,
-      "score": 1,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
       "signals": [
-        "4H_EMA20_ABOVE_EMA50"
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
       ],
-      "sizing_mult": 0.5,
-      "timestamp": "2026-05-12T10:00:13.583685"
+      "sizing_mult": 0.75,
+      "timestamp": "2026-05-12T18:00:13.370746"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-12T10:00:28.629335"
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-12T18:00:26.201757"
     },
     "ARB/USD": {
       "symbol": "ARB/USD",
@@ -108,17 +120,21 @@
     },
     "LINK/USD": {
       "symbol": "LINK/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-12T10:00:25.303365"
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-12T18:00:23.347410"
     }
   },
-  "last_updated": "2026-05-12T17:00:01.705660",
+  "last_updated": "2026-05-12T18:05:02.350302",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-12T17:00:01.705670"
+    "generated_at": "2026-05-12T18:05:02.350314"
   }
 }
