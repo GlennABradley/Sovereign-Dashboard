@@ -1,13 +1,13 @@
 {
   "signal": "NEUTRAL",
   "urgency": "LOW",
-  "btc_2h_change": -0.0082,
-  "btc_1h_change": -0.0013,
+  "btc_2h_change": -0.0037,
+  "btc_1h_change": 0.0003,
   "btc_dominance": null,
   "action": "No cross-asset signal",
-  "checked_at": "2026-05-13T10:00:39.077105",
+  "checked_at": "2026-05-13T18:00:42.859205",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-13T17:00:01.967719"
+    "generated_at": "2026-05-13T18:05:03.802635"
   }
 }
