@@ -1,11 +1,17 @@
 {
-  "position_count": 0,
-  "symbols": [],
-  "regimes": [],
-  "strategies": [],
+  "position_count": 1,
+  "symbols": [
+    "PANW"
+  ],
+  "regimes": [
+    "UNKNOWN"
+  ],
+  "strategies": [
+    "swing"
+  ],
   "last_updated": "2026-05-13",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-13T11:02:06.148446"
+    "generated_at": "2026-05-13T13:00:08.473000"
   }
 }

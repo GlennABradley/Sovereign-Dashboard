@@ -1,5 +1,22 @@
 [
   {
+    "date": "?",
+    "ticker": "PANW",
+    "symbol": "PANW",
+    "bot": "equity",
+    "side": "SELL",
+    "action": "SELL",
+    "entry": 0.0,
+    "exit": 0.0,
+    "pnl": 0.0,
+    "pct": 0.0,
+    "outcome": "?",
+    "hold_days": 0,
+    "reason": "",
+    "regime": "CHOPPY_RANGING",
+    "timestamp": "?"
+  },
+  {
     "date": "2026-05-05",
     "ticker": "SLB",
     "symbol": "SLB",

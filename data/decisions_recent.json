@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-13T11:40",
+    "ticker": "PANW",
+    "symbol": "PANW",
+    "action": "BUY",
+    "confidence": 0.79,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-12T18:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -81,16 +91,6 @@
   },
   {
     "timestamp": "2026-05-05T09:02",
-    "ticker": "CRWD",
-    "symbol": "CRWD",
-    "action": "SKIP",
-    "confidence": 0.67,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-05T08:57",
     "ticker": "CRWD",
     "symbol": "CRWD",
     "action": "SKIP",
