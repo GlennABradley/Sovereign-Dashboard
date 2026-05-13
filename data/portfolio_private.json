@@ -2,15 +2,15 @@
   "cash": 97699.34,
   "start_of_day_value": 101206.7,
   "positions": {},
-  "last_updated": "2026-05-13T13:00:08.933316",
+  "last_updated": "2026-05-13T14:30:07.681404",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-13T13:00:08.933373"
+    "generated_at": "2026-05-13T14:30:07.681434"
   },
   "equity_cash": 97699.34,
-  "equity_pos_value": 3533.36,
+  "equity_pos_value": 3578.4,
   "crypto_pos_value": 0,
-  "combined_value": 101232.7,
+  "combined_value": 101277.74,
   "equity_positions": {
     "PANW": {
       "ticker": "PANW",
@@ -32,7 +32,7 @@
       "invalidation_signal": null,
       "symbol": "PANW",
       "qty": 16.0,
-      "live_price": 220.835
+      "live_price": 223.65
     }
   },
   "portfolio_snapshots": [
@@ -288,7 +288,7 @@
     },
     {
       "date": "2026-05-13",
-      "value": 101232.7,
+      "value": 101277.74,
       "sod": 101206.7
     }
   ]
