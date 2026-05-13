@@ -1,47 +1,47 @@
 {
   "last_updated": "2026-05-12",
   "weights": {
-    "BEAR": 2.857,
-    "QUANT": 1.071,
-    "RISK": 1.071,
-    "REGIME": 1.357
+    "BEAR": 2.692,
+    "QUANT": 1.192,
+    "RISK": 1.192,
+    "REGIME": 1.308
   },
   "judges": {
     "BEAR": {
-      "approvals": 9,
-      "rejections": 5,
-      "correct": 13,
-      "total_graded": 14,
-      "accuracy": 0.929,
-      "weight": 2.857
+      "approvals": 20,
+      "rejections": 6,
+      "correct": 22,
+      "total_graded": 26,
+      "accuracy": 0.846,
+      "weight": 2.692
     },
     "QUANT": {
-      "approvals": 14,
+      "approvals": 26,
       "rejections": 0,
-      "correct": 8,
-      "total_graded": 14,
-      "accuracy": 0.571,
-      "weight": 1.071
+      "correct": 18,
+      "total_graded": 26,
+      "accuracy": 0.692,
+      "weight": 1.192
     },
     "RISK": {
-      "approvals": 14,
+      "approvals": 26,
       "rejections": 0,
-      "correct": 8,
-      "total_graded": 14,
-      "accuracy": 0.571,
-      "weight": 1.071
+      "correct": 18,
+      "total_graded": 26,
+      "accuracy": 0.692,
+      "weight": 1.192
     },
     "REGIME": {
-      "approvals": 10,
-      "rejections": 4,
-      "correct": 12,
-      "total_graded": 14,
-      "accuracy": 0.857,
-      "weight": 1.357
+      "approvals": 21,
+      "rejections": 5,
+      "correct": 21,
+      "total_graded": 26,
+      "accuracy": 0.808,
+      "weight": 1.308
     }
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-12T23:00:13.777853"
+    "generated_at": "2026-05-13T00:05:02.283584"
   }
 }
