@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-14T15:08",
+    "ticker": "ORCL",
+    "symbol": "ORCL",
+    "action": "SKIP",
+    "confidence": 0.74,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-14T10:09",
     "ticker": "\u2014",
     "symbol": "\u2014",
@@ -85,16 +95,6 @@
     "symbol": "AAPL",
     "action": "SKIP",
     "confidence": 0.73,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-05T15:08",
-    "ticker": "BG",
-    "symbol": "BG",
-    "action": "SKIP",
-    "confidence": 0.81,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
