@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-14T10:09",
+    "ticker": "\u2014",
+    "symbol": "\u2014",
+    "action": "HOLD",
+    "confidence": 0.76,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-13T11:40",
     "ticker": "PANW",
     "symbol": "PANW",
@@ -85,16 +95,6 @@
     "symbol": "BG",
     "action": "SKIP",
     "confidence": 0.81,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-05T09:02",
-    "ticker": "CRWD",
-    "symbol": "CRWD",
-    "action": "SKIP",
-    "confidence": 0.67,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
