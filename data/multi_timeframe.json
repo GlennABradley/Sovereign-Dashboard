@@ -10,10 +10,23 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-05-14T00:00:09.829924"
+      "timestamp": "2026-05-14T06:00:09.478532"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
+      "intraday_score": 3,
+      "score": 3,
+      "max_score": 6,
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-14T06:00:13.119454"
+    },
+    "SOL/USD": {
+      "symbol": "SOL/USD",
       "intraday_score": 2,
       "score": 2,
       "max_score": 6,
@@ -22,16 +35,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-05-14T00:00:13.901989"
-    },
-    "SOL/USD": {
-      "symbol": "SOL/USD",
-      "intraday_score": 0,
-      "score": 0,
-      "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-14T00:00:17.059342"
+      "timestamp": "2026-05-14T06:00:16.439824"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -86,7 +90,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-14T00:00:20.302019"
+      "timestamp": "2026-05-14T06:00:19.256055"
     },
     "ONDO/USD": {
       "symbol": "ONDO/USD",
@@ -126,9 +130,9 @@
       "timestamp": "2026-05-12T18:00:23.347410"
     }
   },
-  "last_updated": "2026-05-14T00:05:02.223373",
+  "last_updated": "2026-05-14T06:05:01.822537",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-14T00:05:02.223388"
+    "generated_at": "2026-05-14T06:05:01.822551"
   }
 }
