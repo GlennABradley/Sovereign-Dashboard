@@ -17,6 +17,23 @@
     "timestamp": "?"
   },
   {
+    "date": "2026-05-14",
+    "ticker": "PANW",
+    "symbol": "PANW",
+    "bot": "equity",
+    "side": "SELL",
+    "action": "SELL",
+    "entry": 219.21,
+    "exit": 234.64,
+    "pnl": 246.88,
+    "pct": 7.04,
+    "outcome": "WIN",
+    "hold_days": 1,
+    "reason": "Take profit 2 triggered (TP1: 0sh@$234.64, TP2: 16sh@$234.64)",
+    "regime": "UNKNOWN",
+    "timestamp": "2026-05-14"
+  },
+  {
     "date": "2026-05-05",
     "ticker": "SLB",
     "symbol": "SLB",

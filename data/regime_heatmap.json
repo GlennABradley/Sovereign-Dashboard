@@ -408,19 +408,25 @@
       "regime": "CHOPPY_RANGING",
       "vix": 18.0,
       "fear_greed": 34,
-      "trades": 0,
-      "wins": 0,
+      "trades": 1,
+      "wins": 1,
       "losses": 0,
-      "trade_list": []
+      "trade_list": [
+        {
+          "ticker": "PANW",
+          "outcome": "WIN",
+          "pnl_pct": 7.04
+        }
+      ]
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
       "days": 24,
-      "trades": 11,
-      "wins": 6,
+      "trades": 12,
+      "wins": 7,
       "losses": 4,
-      "win_rate": 0.545
+      "win_rate": 0.583
     },
     "BULL_LOW_VOL": {
       "days": 1,
@@ -431,5 +437,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-14T10:30:08.968844"
+  "generated_at": "2026-05-14T13:00:06.533378"
 }
