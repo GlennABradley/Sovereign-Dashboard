@@ -1,20 +1,20 @@
 {
-  "ts": "2026-05-14T11:00:00.930615",
-  "generated": "11:00:00 AM",
+  "ts": "2026-05-14T11:05:00.587930",
+  "generated": "11:05:00 AM",
   "paper": {
-    "equity": 101488.14,
+    "equity": 101486.38,
     "cash": 97699.34,
-    "day_pnl": 144.16,
-    "day_pnl_pct": 0.142,
+    "day_pnl": 142.4,
+    "day_pnl_pct": 0.141,
     "positions": [
       {
         "sym": "PANW",
         "qty": 16.0,
-        "price": 236.8,
+        "price": 236.69,
         "entry": 219.21,
-        "pnl_pct": 8.02,
-        "pnl": 281.44,
-        "mkt_val": 3788.8
+        "pnl_pct": 7.97,
+        "pnl": 279.68,
+        "mkt_val": 3787.04
       }
     ]
   },
