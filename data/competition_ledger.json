@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-13T09:58:32.431757",
+  "last_updated": "2026-05-13T23:00:02.392339",
   "equity": {
-    "total_trades": 17,
+    "total_trades": 18,
     "wins": 10,
     "losses": 6,
-    "win_rate": 0.588,
-    "sharpe_proxy": 0.39,
+    "win_rate": 0.556,
+    "sharpe_proxy": 0.38,
     "current_streak": 1,
-    "streak_type": "EXCLUDED",
-    "avg_roi": 1.205,
+    "streak_type": "\u2014",
+    "avg_roi": 1.138,
     "best_trade": {
       "symbol": "PANW",
       "roi": 7.12
@@ -42,9 +42,9 @@
   },
   "competition": {
     "leader": "EQUITY",
-    "equity_score": 70.85,
+    "equity_score": 66.98,
     "crypto_score": 2.07,
-    "edge": "Equity GOAT leads: 71 vs 2"
+    "edge": "Equity GOAT leads: 67 vs 2"
   },
   "commissioner_decisions": [
     {
@@ -230,6 +230,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-13T18:05:03.800843"
+    "generated_at": "2026-05-13T23:00:07.434412"
   }
 }
