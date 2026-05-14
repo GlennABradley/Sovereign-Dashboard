@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-13T09:52:47.021314",
-  "macro_pulse_score": 1.0,
+  "generated_at": "2026-05-13T23:00:17.123483",
+  "macro_pulse_score": 0.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
-    "vix_spot": 18.28,
+    "vix_spot": 17.87,
     "vxv_3m": 21.0,
-    "ratio": 0.8705,
+    "ratio": 0.851,
     "signal": "NORMAL"
   },
   "fg_latest": {
-    "date": "2026-05-12",
-    "value": 42,
+    "date": "2026-05-13",
+    "value": 34,
     "label": "Fear"
   },
   "fg_history_count": 365,
@@ -24,10 +24,10 @@
     "fetched_at": "2026-05-09T23:01:42.802801"
   },
   "cboe_pc": {
-    "put_call": 1.241,
-    "signal": "ELEVATED_FEAR",
-    "as_of": "2026-05-13",
-    "put_vol": 843323,
-    "call_vol": 679736
+    "put_call": 1.142,
+    "signal": "NEUTRAL",
+    "as_of": "2026-05-14",
+    "put_vol": 678286,
+    "call_vol": 593781
   }
 }
