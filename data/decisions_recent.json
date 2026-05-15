@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-05-15T09:36",
+    "ticker": "ORCL",
+    "symbol": "ORCL",
+    "action": "SKIP",
+    "confidence": 0.74,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
+    "timestamp": "2026-05-15T09:02",
+    "ticker": "ORCL",
+    "symbol": "ORCL",
+    "action": "SKIP",
+    "confidence": 0.82,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-14T15:08",
     "ticker": "ORCL",
     "symbol": "ORCL",
@@ -75,26 +95,6 @@
     "symbol": "DD",
     "action": "SKIP",
     "confidence": 0.76,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-06T15:08",
-    "ticker": "DELL",
-    "symbol": "DELL",
-    "action": "SKIP",
-    "confidence": 0.74,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-06T11:30",
-    "ticker": "AAPL",
-    "symbol": "AAPL",
-    "action": "SKIP",
-    "confidence": 0.73,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
