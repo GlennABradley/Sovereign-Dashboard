@@ -1,11 +1,11 @@
 {
-  "ts": "2026-05-14T16:55:00.931727",
-  "generated": "04:55:00 PM",
+  "ts": "2026-05-15T09:00:01.052132",
+  "generated": "09:00:01 AM",
   "paper": {
-    "equity": 101453.58,
-    "cash": 101453.58,
-    "day_pnl": 109.6,
-    "day_pnl_pct": 0.108,
+    "equity": 101453.57,
+    "cash": 101453.57,
+    "day_pnl": 0.0,
+    "day_pnl_pct": 0.0,
     "positions": []
   },
   "live": {
