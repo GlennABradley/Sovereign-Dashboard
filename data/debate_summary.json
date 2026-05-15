@@ -1,11 +1,11 @@
 {
-  "ticker": "PANW",
-  "date": "2026-05-13",
-  "vote_approve": 2,
-  "vote_reject": 2,
+  "ticker": "HPE",
+  "date": "2026-05-15",
+  "vote_approve": 3,
+  "vote_reject": 1,
   "total_judges": 4,
-  "bull_case": "Manual execution: Claude BUY 0.79 conf \u2014 4/5 confluence RS 5.14x Pocket Pivot OPTIONS_BULLISH C/P 7.0 6 congressional buyers. API credits depleted, order placed directly.",
-  "bear_case": "The primary risk is thesis invalidation: Close below 207 Regime context: CHOPPY_RANGING RANGE_HIGH | CPI day 50%\u2026",
-  "verdict": "Approved at 79% confidence. Manual execution: Claude BUY 0.79 conf \u2014 4/5 confluence RS 5.14x Pocket Pivot OPTIONS_BULLISH C/P 7.0 6 congressional buyers. API credits depleted, order placed directly.",
-  "outcome": "+7.0%"
+  "bull_case": "HPE: RS 5.67x, 4/5 confluence, STRONG_BEATER, MACD bullish, RSI optimal at 70, extreme options flow (C/P 4.6, OTM calls 37x+ vol/OI), IT sector leading, earnings not until June 1.",
+  "bear_case": "The primary risk is thesis invalidation: Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday. Regime context: CHOPPY_RANGING with 70% win rate in system history for this setup type. Tighter stop at 4.1% below entry. Options flow provides institutional confirmation signal rare in choppy markets.",
+  "verdict": "Approved at 81% confidence. HPE: RS 5.67x, 4/5 confluence, STRONG_BEATER, MACD bullish, RSI optimal at 70, extreme options flow (C/P 4.6, OTM calls 37x+ vol/OI), IT sector leading, earnings not until June 1.",
+  "outcome": "open"
 }

@@ -1,11 +1,17 @@
 {
-  "position_count": 0,
-  "symbols": [],
-  "regimes": [],
-  "strategies": [],
+  "position_count": 1,
+  "symbols": [
+    "HPE"
+  ],
+  "regimes": [
+    "CHOPPY_RANGING"
+  ],
+  "strategies": [
+    "swing"
+  ],
   "last_updated": "2026-05-15",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-15T10:05:00.492272"
+    "generated_at": "2026-05-15T16:37:07.206328"
   }
 }

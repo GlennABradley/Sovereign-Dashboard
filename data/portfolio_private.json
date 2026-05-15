@@ -1,17 +1,40 @@
 {
-  "cash": 101453.57,
+  "cash": 94176.72,
   "start_of_day_value": 101453.57,
   "positions": {},
-  "last_updated": "2026-05-15T10:05:02.146634",
+  "last_updated": "2026-05-15T16:37:07.487003",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-15T10:05:02.146661"
+    "generated_at": "2026-05-15T16:37:07.487024"
   },
-  "equity_cash": 101453.57,
-  "equity_pos_value": 0,
+  "equity_cash": 94184.42306700001,
+  "equity_pos_value": 7270.25,
   "crypto_pos_value": 0,
-  "combined_value": 101453.57,
-  "equity_positions": {},
+  "combined_value": 101446.97,
+  "equity_positions": {
+    "HPE": {
+      "ticker": "HPE",
+      "shares": 220.0438,
+      "entry_price": 33.035,
+      "entry_date": "2026-05-15",
+      "trade_type": "swing",
+      "stop_loss": 31.09,
+      "target": 35.8,
+      "entry_vix": null,
+      "entry_regime": "CHOPPY_RANGING",
+      "confidence": 0.0,
+      "confluence_score": 0,
+      "sector": null,
+      "rs_score": null,
+      "tp1_hit": false,
+      "shares_sold": 0,
+      "tp1_exit_price": null,
+      "invalidation_signal": "Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday.",
+      "symbol": "HPE",
+      "qty": 220.0438,
+      "live_price": 33.04
+    }
+  },
   "portfolio_snapshots": [
     {
       "date": "2026-03-24",
@@ -275,7 +298,7 @@
     },
     {
       "date": "2026-05-15",
-      "value": 101453.57,
+      "value": 101446.97,
       "sod": 101453.57
     }
   ]
