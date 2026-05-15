@@ -1,16 +1,16 @@
 {
-  "cash": 101453.58,
-  "start_of_day_value": 101343.98,
+  "cash": 101453.57,
+  "start_of_day_value": 101453.57,
   "positions": {},
-  "last_updated": "2026-05-15T00:05:01.639171",
+  "last_updated": "2026-05-15T06:05:01.757336",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-15T00:05:01.639196"
+    "generated_at": "2026-05-15T06:05:01.757361"
   },
   "equity_cash": 101453.58,
   "equity_pos_value": 0,
   "crypto_pos_value": 0,
-  "combined_value": 101453.58,
+  "combined_value": 101453.57,
   "equity_positions": {},
   "portfolio_snapshots": [
     {
@@ -275,8 +275,8 @@
     },
     {
       "date": "2026-05-15",
-      "value": 101453.58,
-      "sod": 101343.98
+      "value": 101453.57,
+      "sod": 101453.57
     }
   ]
 }
