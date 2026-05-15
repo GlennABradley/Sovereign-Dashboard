@@ -7,18 +7,16 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T10:00:30.662233"
+      "timestamp": "2026-05-15T18:00:20.649400"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 1,
-      "score": 1,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "4H_EMA20_ABOVE_EMA50"
-      ],
-      "sizing_mult": 0.5,
-      "timestamp": "2026-05-15T10:00:27.466682"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-05-15T18:00:17.128653"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -27,7 +25,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T10:00:23.637119"
+      "timestamp": "2026-05-15T18:00:12.748815"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -53,12 +51,15 @@
     },
     "AVAX/USD": {
       "symbol": "AVAX/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T10:00:34.116904"
+      "signals": [
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
+      ],
+      "sizing_mult": 0.75,
+      "timestamp": "2026-05-15T18:00:24.241268"
     },
     "XRP/USD": {
       "symbol": "XRP/USD",
@@ -107,19 +108,17 @@
     },
     "LINK/USD": {
       "symbol": "LINK/USD",
-      "intraday_score": 1,
-      "score": 1,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "4H_EMA20_ABOVE_EMA50"
-      ],
-      "sizing_mult": 0.5,
-      "timestamp": "2026-05-15T10:00:37.227933"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-05-15T18:00:27.294325"
     }
   },
-  "last_updated": "2026-05-15T17:00:02.363211",
+  "last_updated": "2026-05-15T18:05:01.657464",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-15T17:00:02.363224"
+    "generated_at": "2026-05-15T18:05:01.657478"
   }
 }
