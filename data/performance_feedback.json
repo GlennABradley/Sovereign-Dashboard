@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T23:00:12.484534",
-  "total_trades": 21,
+  "generated_at": "2026-05-14T23:02:52.178503",
+  "total_trades": 22,
   "regime_stats": {
     "BEAR_HIGH_VOL": {
       "wins": 3,
@@ -25,6 +25,14 @@
       "n": 11,
       "win_rate": 0.636,
       "avg_pnl": 1.982
+    },
+    "UNKNOWN": {
+      "wins": 1,
+      "losses": 0,
+      "total_pnl": 7.04,
+      "n": 1,
+      "win_rate": 1.0,
+      "avg_pnl": 7.04
     },
     "ACCUMULATION_EXTREME_FEAR": {
       "wins": 1,
@@ -109,15 +117,15 @@
       "avg_pnl": -0.86
     },
     "null": {
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "total_pnl": -0.94,
-      "n": 2,
-      "win_rate": 0.5,
-      "avg_pnl": -0.47
+      "total_pnl": 6.1,
+      "n": 3,
+      "win_rate": 0.667,
+      "avg_pnl": 2.033
     }
   },
-  "best_regime": "BEAR_HIGH_VOL",
+  "best_regime": "UNKNOWN",
   "worst_regime": "CHECK",
   "best_sector": "Utilities",
   "worst_sector": "Healthcare",

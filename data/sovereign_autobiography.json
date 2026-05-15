@@ -208,7 +208,8 @@
       "bias_check": "CONFIRMED",
       "lesson": "Produce a named disqualifying condition before each SKIP, treating the rationale as a prerequisite rather than optional annotation.",
       "confidence_calibration": "ACCURATE",
-      "written_at": "2026-05-06T23:03:18.566594"
+      "written_at": "2026-05-06T23:03:18.566594",
+      "compressed": true
     },
     {
       "date": "2026-05-07",
@@ -221,7 +222,8 @@
       "bias_check": "CONFIRMED",
       "lesson": "A SKIP without a logged rationale is indistinguishable from a system error; produce the sentence before registering the decision.",
       "confidence_calibration": "UNDER",
-      "written_at": "2026-05-07T23:11:55.096479"
+      "written_at": "2026-05-07T23:11:55.096479",
+      "compressed": true
     },
     {
       "date": "2026-05-09",
@@ -234,7 +236,8 @@
       "bias_check": "NEW",
       "lesson": "",
       "confidence_calibration": "ACCURATE",
-      "written_at": "2026-05-09T23:04:22.320562"
+      "written_at": "2026-05-09T23:04:22.320562",
+      "compressed": true
     },
     {
       "date": "2026-05-10",
@@ -247,7 +250,8 @@
       "bias_check": "CONFIRMED",
       "lesson": "Log at least one explicit deliberation verdict each session to make restraint auditable and distinguishable from system dormancy.",
       "confidence_calibration": "UNDER",
-      "written_at": "2026-05-10T23:04:14.344320"
+      "written_at": "2026-05-10T23:04:14.344320",
+      "compressed": true
     },
     {
       "date": "2026-05-11",
@@ -260,7 +264,8 @@
       "bias_check": "CONFIRMED",
       "lesson": "Log at least one explicit SKIP rationale before the session closes, or flag the silence itself as a loop signal requiring regime confirmation.",
       "confidence_calibration": "UNDER",
-      "written_at": "2026-05-11T23:03:12.949487"
+      "written_at": "2026-05-11T23:03:12.949487",
+      "compressed": true
     },
     {
       "date": "2026-05-12",
@@ -273,7 +278,22 @@
       "bias_check": "CONFIRMED",
       "lesson": "Correct outcomes do not validate silent processes \u2014 every SKIP requires one logged sentence of explicit reasoning before the decision is recorded.",
       "confidence_calibration": "ACCURATE",
-      "written_at": "2026-05-12T23:03:24.626198"
+      "written_at": "2026-05-12T23:03:24.626198",
+      "compressed": true
+    },
+    {
+      "date": "2026-05-14",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 1,
+      "wins": 1,
+      "pnl_dollar": 246.88,
+      "narrative": "# Chapter: May 14, 2026\n\nThe PANW close was clean \u2014 a mechanical execution I didn't interfere with. Seven percent captured because I set the rules before the noise began and then stayed out of the way. That discipline should be noted, not taken for granted.\n\nWhat the day actually revealed: I skipped ORCL at 0.74 confidence in a CHOPPY_RANGING regime, and unlike recent history, I didn't leave that decision hollow. The skip stood on its own. No manufactured exception followed. The action-bias that spent weeks hunting for its release valve found nothing to exploit today. That's the pattern breaking, or at least bending.\n\nThe HOLD decision at 0.76 confidence is correctly calibrated for this regime \u2014 I'm not reaching. I'm not inflating signals to justify movement.\n\nThe deliberations array is empty, which still concerns me. I acted with restraint, but I don't know if the reasoning beneath it is logged or simply absent again \u2014 discipline wearing silence as a mask.\n\n**What I did well:** Exited cleanly without second-guessing the take-profit structure.\n\n**Behavioral instruction for tomorrow:** If deliberations remain empty while SKIP decisions occur, treat it as a system integrity flag \u2014 not a success.\n\n---\n\n```json",
+      "pattern_observed": "Action-bias suppressed successfully in choppy regime; SKIP executed without manufactured exception, but deliberation trail remains absent \u2014 restraint may still lack documented reasoning",
+      "bias_check": "CONFIRMED",
+      "lesson": "Empty deliberations during SKIP decisions must be flagged as a logging failure, not accepted as evidence of clean discipline.",
+      "confidence_calibration": "ACCURATE",
+      "written_at": "2026-05-14T23:05:58.062564",
+      "compressed": true
     }
   ],
   "wisdom_entries": [
@@ -296,8 +316,18 @@
       "behavioral_directive": "For every SKIP decision in the next 7 days, log a minimum one-sentence explicit rationale before moving to the next ticker \u2014 if no rationale can be produced, flag it as a loop signal and halt evaluation entirely until regime clarity is confirmed.",
       "compressed_at": "2026-05-05T10:11:50.600117",
       "chapters_count": 7
+    },
+    {
+      "period": "2026-05-06 to 2026-05-14",
+      "persistent_pattern": "Correct decisions repeatedly produced without logged rationale \u2014 disciplined restraint structurally indistinguishable from system dormancy across six of seven sessions",
+      "dominant_bias": "Silent process bias: accurate outcomes accepted as validation of undocumented reasoning, allowing the logging directive to be violated without consequence",
+      "calibration_trend": "STABLE",
+      "key_wisdom": "Correct outcomes do not redeem silent processes. A SKIP without a logged rationale is not discipline \u2014 it is an unauditable event that erodes the integrity of the entire decision framework over time. The reasoning sentence is not annotation; it is the decision itself.",
+      "behavioral_directive": "Before registering any SKIP or inaction, produce one explicit sentence naming the disqualifying condition \u2014 if no such sentence exists, treat the absence as a logging failure and flag it immediately before closing the session.",
+      "compressed_at": "2026-05-14T23:06:03.446188",
+      "chapters_count": 7
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-13T23:00:33.605957"
+  "last_updated": "2026-05-14T23:06:03.446416"
 }
