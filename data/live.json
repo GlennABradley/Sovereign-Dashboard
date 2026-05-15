@@ -1,20 +1,20 @@
 {
-  "ts": "2026-05-15T15:30:00.797598",
-  "generated": "03:30:00 PM",
+  "ts": "2026-05-15T15:35:00.556759",
+  "generated": "03:35:00 PM",
   "paper": {
-    "equity": 101448.07,
+    "equity": 101461.27,
     "cash": 94176.72,
-    "day_pnl": -5.5,
-    "day_pnl_pct": -0.005,
+    "day_pnl": 7.7,
+    "day_pnl_pct": 0.008,
     "positions": [
       {
         "sym": "HPE",
         "qty": 220.0438,
-        "price": 33.045,
+        "price": 33.105,
         "entry": 33.07,
-        "pnl_pct": -0.08,
-        "pnl": -5.5,
-        "mkt_val": 7271.35
+        "pnl_pct": 0.11,
+        "pnl": 7.7,
+        "mkt_val": 7284.55
       }
     ]
   },
