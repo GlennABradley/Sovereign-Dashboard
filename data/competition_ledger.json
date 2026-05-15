@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-14T08:55:03.311732",
+  "last_updated": "2026-05-14T23:00:11.877605",
   "equity": {
-    "total_trades": 18,
-    "wins": 10,
+    "total_trades": 19,
+    "wins": 11,
     "losses": 6,
-    "win_rate": 0.556,
-    "sharpe_proxy": 0.38,
+    "win_rate": 0.579,
+    "sharpe_proxy": 0.45,
     "current_streak": 1,
-    "streak_type": "\u2014",
-    "avg_roi": 1.138,
+    "streak_type": "WIN",
+    "avg_roi": 1.448,
     "best_trade": {
       "symbol": "PANW",
       "roi": 7.12
@@ -17,8 +17,8 @@
       "symbol": "NTAP",
       "roi": -2.45
     },
-    "last_30d_trades": 11,
-    "last_30d_win_rate": 0.545
+    "last_30d_trades": 12,
+    "last_30d_win_rate": 0.583
   },
   "crypto": {
     "total_trades": 3,
@@ -42,9 +42,9 @@
   },
   "competition": {
     "leader": "EQUITY",
-    "equity_score": 66.98,
+    "equity_score": 72.38,
     "crypto_score": 2.07,
-    "edge": "Equity GOAT leads: 67 vs 2"
+    "edge": "Equity GOAT leads: 72 vs 2"
   },
   "commissioner_decisions": [
     {
@@ -230,6 +230,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-14T18:05:02.256022"
+    "generated_at": "2026-05-14T23:00:14.751676"
   }
 }
