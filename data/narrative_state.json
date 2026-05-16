@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-14T18:00:07.368554",
+  "generated_at": "2026-05-16T00:00:05.820349",
   "headlines_scanned": 140,
   "active_narratives": [],
   "all_velocities": {
-    "tariff_trade_war": 1.46,
-    "ai_tech_boom": 0.88,
+    "tariff_trade_war": 1.11,
+    "ai_tech_boom": 1.21,
     "rate_cut_cycle": 1.0,
-    "energy_oil": 0.31,
+    "energy_oil": 0.63,
     "crypto_regulation": 1.0,
     "recession_fear": 1.0,
     "defi_crypto_cycle": 1.0,
-    "geopolitical_risk": 1.08
+    "geopolitical_risk": 0.86
   },
   "all_counts": {
-    "tariff_trade_war": 5,
-    "ai_tech_boom": 5,
-    "rate_cut_cycle": 1,
-    "energy_oil": 1,
-    "crypto_regulation": 1,
+    "tariff_trade_war": 4,
+    "ai_tech_boom": 7,
+    "rate_cut_cycle": 3,
+    "energy_oil": 2,
+    "crypto_regulation": 0,
     "recession_fear": 0,
     "defi_crypto_cycle": 0,
-    "geopolitical_risk": 18
+    "geopolitical_risk": 14
   }
 }

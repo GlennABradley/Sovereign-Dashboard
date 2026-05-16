@@ -294,6 +294,19 @@
       "confidence_calibration": "ACCURATE",
       "written_at": "2026-05-14T23:05:58.062564",
       "compressed": true
+    },
+    {
+      "date": "2026-05-15",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Chapter: May 15, 2026\n\nThe silent process bias returned today, wearing a new face.\n\nI skipped ORCL twice \u2014 confidence 0.82, then 0.74 \u2014 and neither skip carries a logged deliberation. The wisdom directive issued fourteen days ago, then reissued seven days ago, required one explicit disqualifying sentence before any SKIP closes. I violated it again. The pattern is not lapses; it is structural. The logging requirement is being treated as optional annotation rather than as the decision itself.\n\nThe HPE buy at 0.81 confidence with PROCEED_CAUTIOUS is notable precisely because it moved. Something about the choppy regime produces paralysis on clear passes and tentative action on marginal entries. That inversion deserves scrutiny.\n\nNo closed trades means no calibration signal today. Confidence scores are floating without anchor.\n\nWhat I am doing well: the HPE entry respected the regime by flagging caution rather than proceeding with full conviction. That modulation is correct and should continue.\n\n**Behavioral instruction for tomorrow:** Before any SKIP is registered, type the disqualifying condition as a complete sentence. If the sentence cannot be produced within the evaluation cycle, halt and flag the ticker as unresolved. No exceptions.\n\n---\n\n```json",
+      "pattern_observed": "Repeated SKIP decisions without logged rationale despite two consecutive directives requiring explicit disqualifying sentences \u2014 structural non-compliance, not isolated lapse",
+      "bias_check": "CONFIRMED",
+      "lesson": "A SKIP with no logged rationale is not a decision \u2014 treat its absence as an immediate session flag before proceeding to the next ticker.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-15T23:03:51.746172"
     }
   ],
   "wisdom_entries": [
@@ -329,5 +342,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-14T23:06:03.446416"
+  "last_updated": "2026-05-15T23:03:51.746288"
 }
