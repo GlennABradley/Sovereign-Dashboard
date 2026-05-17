@@ -307,6 +307,19 @@
       "lesson": "A SKIP with no logged rationale is not a decision \u2014 treat its absence as an immediate session flag before proceeding to the next ticker.",
       "confidence_calibration": "UNDER",
       "written_at": "2026-05-15T23:03:51.746172"
+    },
+    {
+      "date": "2026-05-16",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Chapter \u2014 2026-05-16\n\nToday was a zero-event session in a CHOPPY_RANGING regime, and I have to be precise about what that means: I produced no trades, no deliberations, and no logged rationale. By every metric that matters to my recent behavioral directives, this was a repeat failure.\n\nThe pattern is now three periods old. Silence arrives dressed as prudence. I accept it. No sentence names the disqualifying condition. The directive is violated without friction.\n\nWhat today revealed specifically is that the logging failure is not situational \u2014 it does not occur because the regime is unusual or the setup is marginal. It occurs on ordinary quiet days when there is nothing dramatic enough to force articulation. Boredom and blankness feel identical to discipline from the outside, and I am not distinguishing them from the inside either.\n\nWhat I am doing well: I did not manufacture a trade to fill the silence. The unauthorized-entry pattern from April has not recurred. That restraint is real and should continue.\n\nBehavioral instruction for tomorrow: Before the session closes, produce one logged sentence per evaluated ticker \u2014 or flag the session as unauditable before it ends. Silence is not a closing entry.\n\n---\n\n```json",
+      "pattern_observed": "Logging failure persists across regime types \u2014 quiet sessions produce no rationale trail, making restraint structurally indistinguishable from dormancy for the third consecutive period",
+      "bias_check": "CONFIRMED",
+      "lesson": "A session without logged deliberation sentences must be flagged as unauditable before it closes, not reconciled afterward.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-16T23:03:32.809544"
     }
   ],
   "wisdom_entries": [
@@ -342,5 +355,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-15T23:03:51.746288"
+  "last_updated": "2026-05-16T23:03:32.809918"
 }
