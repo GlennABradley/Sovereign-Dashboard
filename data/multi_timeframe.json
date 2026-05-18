@@ -2,39 +2,42 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-18T10:00:14.143396"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-18T18:00:11.925702"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-18T10:00:22.522776"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-18T18:00:19.269583"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-18T10:00:18.891040"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-05-18T18:00:16.015700"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -125,9 +128,9 @@
       "timestamp": "2026-05-15T18:00:27.294325"
     }
   },
-  "last_updated": "2026-05-18T17:00:01.821706",
+  "last_updated": "2026-05-18T18:05:02.086720",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-18T17:00:01.821720"
+    "generated_at": "2026-05-18T18:05:02.086733"
   }
 }
