@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-18T09:38",
+    "ticker": "TRGP",
+    "symbol": "TRGP",
+    "action": "SKIP",
+    "confidence": 0.86,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-18T06:02",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -87,16 +97,6 @@
     "confidence": 0.79,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-12T18:00",
-    "ticker": "BTC/USD",
-    "symbol": "BTC/USD",
-    "action": "SKIP",
-    "confidence": 0.63,
-    "regime": "NEUTRAL",
-    "bot": "crypto",
     "_skip_candidate": false
   }
 ]

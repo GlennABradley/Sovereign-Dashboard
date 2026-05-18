@@ -2,20 +2,20 @@
   "cash": 94176.72,
   "start_of_day_value": 101460.17,
   "positions": {},
-  "last_updated": "2026-05-18T06:05:02.256625",
+  "last_updated": "2026-05-18T09:38:51.479496",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-18T06:05:02.256651"
+    "generated_at": "2026-05-18T09:38:51.479546"
   },
-  "equity_cash": 94184.42306700001,
-  "equity_pos_value": 7261.45,
+  "equity_cash": 94176.72,
+  "equity_pos_value": 7349.46,
   "crypto_pos_value": 0,
-  "combined_value": 101438.17,
+  "combined_value": 101523.98,
   "equity_positions": {
     "HPE": {
       "ticker": "HPE",
       "shares": 220.0438,
-      "entry_price": 33.035,
+      "entry_price": 33.07,
       "entry_date": "2026-05-15",
       "trade_type": "swing",
       "stop_loss": 31.09,
@@ -32,7 +32,7 @@
       "invalidation_signal": "Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday.",
       "symbol": "HPE",
       "qty": 220.0438,
-      "live_price": 33.0
+      "live_price": 33.4
     }
   },
   "portfolio_snapshots": [
@@ -313,7 +313,7 @@
     },
     {
       "date": "2026-05-18",
-      "value": 101438.17,
+      "value": 101523.98,
       "sod": 101460.17
     }
   ]
