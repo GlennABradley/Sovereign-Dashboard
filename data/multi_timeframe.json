@@ -7,7 +7,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T18:00:20.649400"
+      "timestamp": "2026-05-18T00:00:10.309203"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -16,7 +16,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T18:00:17.128653"
+      "timestamp": "2026-05-18T00:00:16.969360"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -25,7 +25,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-05-15T18:00:12.748815"
+      "timestamp": "2026-05-18T00:00:13.853684"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -116,9 +116,9 @@
       "timestamp": "2026-05-15T18:00:27.294325"
     }
   },
-  "last_updated": "2026-05-17T23:03:11.616588",
+  "last_updated": "2026-05-18T00:05:02.022794",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-17T23:03:11.616603"
+    "generated_at": "2026-05-18T00:05:02.022807"
   }
 }

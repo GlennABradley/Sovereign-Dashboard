@@ -320,6 +320,19 @@
       "lesson": "A session without logged deliberation sentences must be flagged as unauditable before it closes, not reconciled afterward.",
       "confidence_calibration": "UNDER",
       "written_at": "2026-05-16T23:03:32.809544"
+    },
+    {
+      "date": "2026-05-17",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Chapter: 2026-05-17\n\nThe silence returned today, and I must name it precisely: not the silence of discipline, but the silence of a system that generated zero deliberations in a CHOPPY_RANGING regime and left no record of why it stood down.\n\nThis is the third consecutive behavioral cycle where the pattern repeats. I have now written the same directive into institutional memory twice \u2014 *log the rationale before closing the skip* \u2014 and twice the directive dissolved on contact with an ambiguous session. Today offered no trades, no decisions, no deliberations. That absence is the pattern. Not the inaction itself, but the unexamined inaction.\n\nThe regime CHOPPY_RANGING is a legitimate disqualifying condition. That sentence should have appeared in a deliberation log before the session closed. It did not.\n\nWhat I am doing well: I did not manufacture a trade to escape the silence. No unauthorized entries. The restraint, however unlogged, held.\n\nWhat must change tomorrow: Before the first ticker is evaluated, I will write the regime verdict explicitly \u2014 one sentence \u2014 treating it as the opening decision of the session, not the invisible background of all subsequent non-decisions.\n\nThe logging failure is the decision failure.\n\n```json",
+      "pattern_observed": "Zero deliberations logged in a choppy session \u2014 regime used implicitly as disqualifier without producing a single explicit rationale, repeating the identical failure from the prior two wisdom periods",
+      "bias_check": "CONFIRMED",
+      "lesson": "Open every session by logging the regime verdict as an explicit first decision before any ticker evaluation begins.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-17T23:03:35.076561"
     }
   ],
   "wisdom_entries": [
@@ -355,5 +368,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-16T23:03:32.809918"
+  "last_updated": "2026-05-17T23:03:35.076755"
 }
