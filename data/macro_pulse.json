@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T03:01:01.345137",
+  "generated_at": "2026-05-17T23:01:09.102558",
   "macro_pulse_score": 1.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
@@ -9,8 +9,8 @@
     "signal": "NORMAL"
   },
   "fg_latest": {
-    "date": "2026-05-16",
-    "value": 27,
+    "date": "2026-05-17",
+    "value": 28,
     "label": "Fear"
   },
   "fg_history_count": 365,
