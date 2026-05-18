@@ -1,11 +1,11 @@
 {
-  "ticker": "HPE",
-  "date": "2026-05-15",
+  "ticker": "D",
+  "date": "2026-05-18",
   "vote_approve": 3,
   "vote_reject": 1,
   "total_judges": 4,
-  "bull_case": "HPE: RS 5.67x, 4/5 confluence, STRONG_BEATER, MACD bullish, RSI optimal at 70, extreme options flow (C/P 4.6, OTM calls 37x+ vol/OI), IT sector leading, earnings not until June 1.",
-  "bear_case": "The primary risk is thesis invalidation: Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday. Regime context: CHOPPY_RANGING with 70% win rate in system history for this setup type. Tighter stop at 4.1% below entry. Options flow provides institutional confirmation signal rare in choppy markets.",
-  "verdict": "Approved at 81% confidence. HPE: RS 5.67x, 4/5 confluence, STRONG_BEATER, MACD bullish, RSI optimal at 70, extreme options flow (C/P 4.6, OTM calls 37x+ vol/OI), IT sector leading, earnings not until June 1.",
+  "bull_case": "D: 5/5 confluence, RS 2.55x, RSI 68 optimal zone, STRONG_BEATER 100% hit rate, low short float 3.2%, Consumer Staples sector leading, CHOPPY_RANGING regime shows 70% WR historically.",
+  "bear_case": "The primary risk is thesis invalidation: Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high. Regime context: CHOPPY_RANGING with 70% historical WR on confluence\u22654 setups. Conservative playbook active: tighter stop at 2.25% below entry, max 5-day hold, take profits into strength. D's low ATR (2.4%) and defensive sector fit this regime well.",
+  "verdict": "Approved at 82% confidence. D: 5/5 confluence, RS 2.55x, RSI 68 optimal zone, STRONG_BEATER 100% hit rate, low short float 3.2%, Consumer Staples sector leading, CHOPPY_RANGING regime shows 70% WR historically.",
   "outcome": "open"
 }

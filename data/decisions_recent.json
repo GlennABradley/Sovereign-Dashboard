@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-18T15:08",
+    "ticker": "D",
+    "symbol": "D",
+    "action": "BUY",
+    "confidence": 0.82,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-18T10:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -85,16 +95,6 @@
     "symbol": "ORCL",
     "action": "SKIP",
     "confidence": 0.74,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-14T10:09",
-    "ticker": "\u2014",
-    "symbol": "\u2014",
-    "action": "HOLD",
-    "confidence": 0.76,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false

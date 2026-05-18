@@ -1,7 +1,8 @@
 {
-  "position_count": 1,
+  "position_count": 2,
   "symbols": [
-    "HPE"
+    "HPE",
+    "D"
   ],
   "regimes": [
     "CHOPPY_RANGING"
@@ -12,6 +13,6 @@
   "last_updated": "2026-05-18",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-18T14:30:11.633559"
+    "generated_at": "2026-05-18T16:37:33.999755"
   }
 }
