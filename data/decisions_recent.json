@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-18T10:00",
+    "ticker": "BTC/USD",
+    "symbol": "BTC/USD",
+    "action": "SKIP",
+    "confidence": 0.61,
+    "regime": "ACCUMULATION_FEAR",
+    "bot": "crypto",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-18T09:38",
     "ticker": "TRGP",
     "symbol": "TRGP",
@@ -85,16 +95,6 @@
     "symbol": "\u2014",
     "action": "HOLD",
     "confidence": 0.76,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-13T11:40",
-    "ticker": "PANW",
-    "symbol": "PANW",
-    "action": "BUY",
-    "confidence": 0.79,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false
