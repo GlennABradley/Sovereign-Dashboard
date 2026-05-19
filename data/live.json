@@ -1,11 +1,11 @@
 {
-  "ts": "2026-05-19T16:05:00.912656",
-  "generated": "04:05:00 PM",
+  "ts": "2026-05-19T16:10:00.340145",
+  "generated": "04:10:00 PM",
   "paper": {
-    "equity": 101484.34,
+    "equity": 101455.09,
     "cash": 81532.19,
-    "day_pnl": 21.08,
-    "day_pnl_pct": 0.021,
+    "day_pnl": -8.17,
+    "day_pnl_pct": -0.008,
     "positions": [
       {
         "sym": "D",
@@ -28,11 +28,11 @@
       {
         "sym": "SATS",
         "qty": 39.0,
-        "price": 136.95,
+        "price": 136.2,
         "entry": 135.86,
-        "pnl_pct": 0.8,
-        "pnl": 42.51,
-        "mkt_val": 5341.05
+        "pnl_pct": 0.25,
+        "pnl": 13.26,
+        "mkt_val": 5311.8
       }
     ]
   },
