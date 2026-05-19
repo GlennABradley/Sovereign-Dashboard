@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-19T10:00",
+    "ticker": "BTC/USD",
+    "symbol": "BTC/USD",
+    "action": "SKIP",
+    "confidence": 0.61,
+    "regime": "ACCUMULATION_FEAR",
+    "bot": "crypto",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-19T09:06",
     "ticker": "SATS",
     "symbol": "SATS",
@@ -87,16 +97,6 @@
     "confidence": 0.61,
     "regime": "ACCUMULATION_FEAR",
     "bot": "crypto",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-15T15:08",
-    "ticker": "HPE",
-    "symbol": "HPE",
-    "action": "BUY",
-    "confidence": 0.81,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
     "_skip_candidate": false
   }
 ]
