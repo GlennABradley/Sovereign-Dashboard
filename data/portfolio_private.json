@@ -1,17 +1,39 @@
 {
   "cash": 86830.73,
-  "start_of_day_value": 101460.17,
+  "start_of_day_value": 101463.26,
   "positions": {},
-  "last_updated": "2026-05-19T00:05:01.963478",
+  "last_updated": "2026-05-19T09:06:50.095772",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-19T00:05:01.963522"
+    "generated_at": "2026-05-19T09:06:50.095806"
   },
-  "equity_cash": 86826.9088305,
-  "equity_pos_value": 14639.05,
+  "equity_cash": 86830.73,
+  "equity_pos_value": 14614.59,
   "crypto_pos_value": 0,
-  "combined_value": 101469.79,
+  "combined_value": 101445.33,
   "equity_positions": {
+    "D": {
+      "ticker": "D",
+      "shares": 109.1043,
+      "entry_price": 67.33,
+      "entry_date": "2026-05-18",
+      "trade_type": "swing",
+      "stop_loss": 64.93,
+      "target": 72.49,
+      "entry_vix": null,
+      "entry_regime": "CHOPPY_RANGING",
+      "confidence": 0.0,
+      "confluence_score": 0,
+      "sector": null,
+      "rs_score": null,
+      "tp1_hit": false,
+      "shares_sold": 0,
+      "tp1_exit_price": null,
+      "invalidation_signal": "Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high.",
+      "symbol": "D",
+      "qty": 109.1043,
+      "live_price": 67.92
+    },
     "HPE": {
       "ticker": "HPE",
       "shares": 220.0438,
@@ -32,29 +54,7 @@
       "invalidation_signal": "Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday.",
       "symbol": "HPE",
       "qty": 220.0438,
-      "live_price": 32.99
-    },
-    "D": {
-      "ticker": "D",
-      "shares": 109.1043,
-      "entry_price": 67.365,
-      "entry_date": "2026-05-18",
-      "trade_type": "swing",
-      "stop_loss": 64.93,
-      "target": 72.49,
-      "entry_vix": null,
-      "entry_regime": "CHOPPY_RANGING",
-      "confidence": 0.0,
-      "confluence_score": 0,
-      "sector": null,
-      "rs_score": null,
-      "tp1_hit": false,
-      "shares_sold": 0,
-      "tp1_exit_price": null,
-      "invalidation_signal": "Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high.",
-      "symbol": "D",
-      "qty": 109.1043,
-      "live_price": 67.64
+      "live_price": 32.74
     }
   },
   "portfolio_snapshots": [
@@ -340,8 +340,8 @@
     },
     {
       "date": "2026-05-19",
-      "value": 101469.79,
-      "sod": 101460.17
+      "value": 101445.33,
+      "sod": 101463.26
     }
   ]
 }

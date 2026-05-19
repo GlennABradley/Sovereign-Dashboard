@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-18T23:01:09.887208",
-  "macro_pulse_score": -1.0,
+  "generated_at": "2026-05-19T09:01:15.083530",
+  "macro_pulse_score": 1.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
-    "vix_spot": 17.82,
+    "vix_spot": 17.94,
     "vxv_3m": 21.0,
-    "ratio": 0.8486,
-    "signal": "COMPLACENT"
+    "ratio": 0.8543,
+    "signal": "NORMAL"
   },
   "fg_latest": {
     "date": "2026-05-18",

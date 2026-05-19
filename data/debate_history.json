@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "SATS",
+    "date": "2026-05-19",
+    "vote_approve": 0,
+    "vote_reject": 0,
+    "total_judges": 0,
+    "bull_case": "# SATS \u2014 ELITE BULL CASE \ud83d\udef0\ufe0f\n\n## Institutional Accumulation Is Undeniable\n\nAn RS score of **4.657x vs SPY** isn't relative strength \u2014 it's dominance. This means SATS is outperforming the benchmark by nearly **5x**, a signature of systematic institutional accumulation. Smart money doesn't quietly buil",
+    "bear_case": "## The Unresolved Killer: Earnings Timing\n\n**The specific risk:** An undisclosed earnings event within the 14-day hold window.\n\n**Why the bull's rebuttal failed to resolve it:** The bull *conceded* earnings timing is unknown and called it \"legitimate binary risk\" \u2014 then proceeded to build the entire",
+    "verdict": "PROCEED_CAUTIOUS: the technical confluence is real and sector exposure is differentiated, but CHOPPY_RANGING regime combined with crowded momentum signals warrants a 10% size trim to account for the market's awareness of this setup reducing the asymmetric edge.",
+    "confidence": 0.78,
+    "regime": "CHOPPY_RANGING"
+  },
+  {
     "ticker": "NTAP",
     "date": "2026-04-22",
     "vote_approve": 2,

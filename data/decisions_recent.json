@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-19T09:06",
+    "ticker": "SATS",
+    "symbol": "SATS",
+    "action": "BUY",
+    "confidence": 0.78,
+    "regime": "CHOPPY_RANGING",
+    "bot": "equity",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-19T00:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -85,16 +95,6 @@
     "symbol": "HPE",
     "action": "BUY",
     "confidence": 0.81,
-    "regime": "CHOPPY_RANGING",
-    "bot": "equity",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-15T09:36",
-    "ticker": "ORCL",
-    "symbol": "ORCL",
-    "action": "SKIP",
-    "confidence": 0.74,
     "regime": "CHOPPY_RANGING",
     "bot": "equity",
     "_skip_candidate": false

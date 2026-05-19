@@ -1,11 +1,11 @@
 {
-  "ticker": "D",
-  "date": "2026-05-18",
-  "vote_approve": 3,
-  "vote_reject": 1,
-  "total_judges": 4,
-  "bull_case": "D: 5/5 confluence, RS 2.55x, RSI 68 optimal zone, STRONG_BEATER 100% hit rate, low short float 3.2%, Consumer Staples sector leading, CHOPPY_RANGING regime shows 70% WR historically.",
-  "bear_case": "The primary risk is thesis invalidation: Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high. Regime context: CHOPPY_RANGING with 70% historical WR on confluence\u22654 setups. Conservative playbook active: tighter stop at 2.25% below entry, max 5-day hold, take profits into strength. D's low ATR (2.4%) and defensive sector fit this regime well.",
-  "verdict": "Approved at 82% confidence. D: 5/5 confluence, RS 2.55x, RSI 68 optimal zone, STRONG_BEATER 100% hit rate, low short float 3.2%, Consumer Staples sector leading, CHOPPY_RANGING regime shows 70% WR historically.",
+  "ticker": "SATS",
+  "date": "2026-05-19",
+  "vote_approve": 0,
+  "vote_reject": 0,
+  "total_judges": 0,
+  "bull_case": "# SATS \u2014 ELITE BULL CASE \ud83d\udef0\ufe0f\n\n## Institutional Accumulation Is Undeniable\n\nAn RS score of **4.657x vs SPY** isn't relative strength \u2014 it's dominance. This means SATS is outperforming the benchmark by nearly **5x**, a signature of systematic institutional accumulation.",
+  "bear_case": "## The Unresolved Killer: Earnings Timing\n\n**The specific risk:** An undisclosed earnings event within the 14-day hold window.",
+  "verdict": "PROCEED_CAUTIOUS: the technical confluence is real and sector exposure is differentiated, but CHOPPY_RANGING regime combined with crowded momentum signals warrants a 10% size trim to account for the market's awareness of this setup reducing the asymmetric edge.",
   "outcome": "open"
 }
