@@ -1,22 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-14",
-      "regime": "CHOPPY_RANGING",
-      "vix": 18.4,
-      "fear_greed": 21,
-      "trades": 1,
-      "wins": 1,
-      "losses": 0,
-      "trade_list": [
-        {
-          "ticker": "AMZN",
-          "outcome": "WIN",
-          "pnl_pct": 4.38
-        }
-      ]
-    },
-    {
       "date": "2026-04-15",
       "regime": "CHOPPY_RANGING",
       "vix": 18.1,
@@ -418,15 +402,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-19",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 24,
-      "trades": 12,
-      "wins": 7,
+      "days": 23,
+      "trades": 11,
+      "wins": 6,
       "losses": 4,
-      "win_rate": 0.583
+      "win_rate": 0.545
     },
     "BULL_LOW_VOL": {
       "days": 1,
@@ -437,5 +431,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-18T23:00:13.100232"
+  "generated_at": "2026-05-19T00:05:01.984276"
 }

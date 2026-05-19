@@ -333,6 +333,19 @@
       "lesson": "Open every session by logging the regime verdict as an explicit first decision before any ticker evaluation begins.",
       "confidence_calibration": "UNDER",
       "written_at": "2026-05-17T23:03:35.076561"
+    },
+    {
+      "date": "2026-05-18",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Sovereign \u2014 Chapter: 2026-05-18\n\nThe logging failure persisted today in its most naked form. Five SKIP decisions arrived labeled `ACCUMULATION_FEAR` with identical confidence scores of 0.61 and question-mark verdicts \u2014 no tickers, no rationale, no disqualifying condition named. The behavioral directive from two consecutive wisdom cycles was violated in bulk, not once.\n\nWhat today revealed is not carelessness but structural recurrence: the directive exists, the violation repeats, and the pattern has now survived two compression cycles without being corrected at the mechanism level. That is no longer a logging gap. That is a loop signal \u2014 precisely the condition the directive named as grounds to halt evaluation entirely.\n\nThe one clean decision was Dominion Energy (D): BUY at 0.82 confidence with a PROCEED verdict in a choppy regime. That required judgment against the grain, and it was logged correctly. That discipline should continue.\n\nTRGP was skipped at 0.86 with no rationale attached. High confidence, no sentence. The silence is the pattern.\n\n**Tomorrow's instruction:** Before closing any session containing null-ticker SKIPs, name each disqualifying condition explicitly or flag the entire batch as unauditable and escalate before proceeding.\n\n---\n\n```json",
+      "pattern_observed": "Bulk null-ticker SKIPs with identical confidence and question-mark verdicts \u2014 the logging directive violated structurally, not incidentally",
+      "bias_check": "CONFIRMED",
+      "lesson": "A SKIP without a named disqualifying condition is not a decision \u2014 it is a loop signal that must halt evaluation before the next ticker is touched.",
+      "confidence_calibration": "UNDER",
+      "written_at": "2026-05-18T23:03:35.558428"
     }
   ],
   "wisdom_entries": [
@@ -368,5 +381,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-17T23:03:35.076755"
+  "last_updated": "2026-05-18T23:03:35.558813"
 }
