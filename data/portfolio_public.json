@@ -6,8 +6,8 @@
     "SATS"
   ],
   "regimes": [
-    "UNKNOWN",
-    "CHOPPY_RANGING"
+    "CHOPPY_RANGING",
+    "UNKNOWN"
   ],
   "strategies": [
     "swing"
@@ -15,6 +15,6 @@
   "last_updated": "2026-05-20",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-20T16:37:14.085436"
+    "generated_at": "2026-05-20T17:00:00.592838"
   }
 }

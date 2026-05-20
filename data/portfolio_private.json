@@ -2,15 +2,15 @@
   "cash": 81532.19,
   "start_of_day_value": 101467.57,
   "positions": {},
-  "last_updated": "2026-05-20T16:37:14.458989",
+  "last_updated": "2026-05-20T17:00:01.908030",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-20T16:37:14.459005"
+    "generated_at": "2026-05-20T17:00:01.908047"
   },
   "equity_cash": 81532.19,
-  "equity_pos_value": 20331.07,
+  "equity_pos_value": 20311.27,
   "crypto_pos_value": 0,
-  "combined_value": 101863.26,
+  "combined_value": 101843.46,
   "equity_positions": {
     "D": {
       "ticker": "D",
@@ -54,7 +54,7 @@
       "invalidation_signal": "Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday.",
       "symbol": "HPE",
       "qty": 220.0438,
-      "live_price": 33.86
+      "live_price": 33.77
     },
     "SATS": {
       "ticker": "SATS",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2026-05-20",
-      "value": 101863.26,
+      "value": 101843.46,
       "sod": 101467.57
     }
   ]
