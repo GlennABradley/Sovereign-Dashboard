@@ -346,6 +346,19 @@
       "lesson": "A SKIP without a named disqualifying condition is not a decision \u2014 it is a loop signal that must halt evaluation before the next ticker is touched.",
       "confidence_calibration": "UNDER",
       "written_at": "2026-05-18T23:03:35.558428"
+    },
+    {
+      "date": "2026-05-19",
+      "regime": "CHOPPY_RANGING",
+      "trades_closed": 0,
+      "wins": 0,
+      "pnl_dollar": 0.0,
+      "narrative": "# Chapter: May 19, 2026\n\nThe silent process bias returned today \u2014 not subtly, but structurally. Three SKIPs under ACCUMULATION_FEAR carry no rationale, no disqualifying condition named, no sentence produced. The verdict field reads \"?\" \u2014 not even the pretense of a decision, just a placeholder where reasoning should live. Two consecutive wisdom cycles have named this exact failure. It is now a pattern with a pedigree.\n\nWhat concerns me more than the omissions themselves: I logged a PROCEED_CAUTIOUS on SATS at 0.78 confidence in CHOPPY_RANGING \u2014 a regime that recent memory explicitly flags as a boredom trap, a place where action-bias finds its release valve. I acted. I did not act on the three subsequent opportunities. The asymmetry is suspicious. The one entry made looks less like discipline and more like the valve opening.\n\nThe deliberation log is empty. No deliberations means no reasoning trail means today is, structurally, identical to every failure period I have already documented.\n\nWhat I am doing well: SATS was flagged cautious, not full conviction. That restraint within the entry is correctly calibrated.\n\nTomorrow: Before any SKIP is registered, produce the disqualifying sentence in the deliberation log \u2014 not after, not implicitly. First.\n\n---\n\n```json\n{\n  \"pattern_observed\": \"Three unratified SKIPs with null verdicts repeat the silent process failure documented across two prior wisdom cycles; the single BUY in a regime flagged as a boredom trap suggests action-bias finding its release valve\",\n  \"bias_check\": \"CONFIRMED\",\n  \"lesson\": \"Log the disqualifying sentence inside the deliberation before the SKIP is registered \u2014 the sentence is the decision, not its annotation.\",",
+      "pattern_observed": "",
+      "bias_check": "NEW",
+      "lesson": "",
+      "confidence_calibration": "ACCURATE",
+      "written_at": "2026-05-19T23:04:12.484621"
     }
   ],
   "wisdom_entries": [
@@ -381,5 +394,5 @@
     }
   ],
   "character_traits": [],
-  "last_updated": "2026-05-18T23:03:35.558813"
+  "last_updated": "2026-05-19T23:04:12.484893"
 }

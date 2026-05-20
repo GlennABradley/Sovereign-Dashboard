@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-20T00:00",
+    "ticker": "BTC/USD",
+    "symbol": "BTC/USD",
+    "action": "SKIP",
+    "confidence": 0.61,
+    "regime": "ACCUMULATION_FEAR",
+    "bot": "crypto",
+    "_skip_candidate": false
+  },
+  {
     "timestamp": "2026-05-19T18:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
@@ -81,16 +91,6 @@
   },
   {
     "timestamp": "2026-05-18T06:02",
-    "ticker": "BTC/USD",
-    "symbol": "BTC/USD",
-    "action": "SKIP",
-    "confidence": 0.61,
-    "regime": "ACCUMULATION_FEAR",
-    "bot": "crypto",
-    "_skip_candidate": false
-  },
-  {
-    "timestamp": "2026-05-18T03:00",
     "ticker": "BTC/USD",
     "symbol": "BTC/USD",
     "action": "SKIP",
