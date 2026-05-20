@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "total_trades": 22,
   "tribunal": {
-    "tribunal_vetoes": 7,
+    "tribunal_vetoes": 8,
     "tribunal_approvals": 28,
     "live_win_rate": 0.545,
     "live_total_trades": 22,
-    "tribunal_veto_rate": 0.2,
-    "insight": "Tribunal vetoed 7 trades. Live win rate: 55%"
+    "tribunal_veto_rate": 0.222,
+    "insight": "Tribunal vetoed 8 trades. Live win rate: 55%"
   },
   "regime_performance": {
     "best_regime": "UNKNOWN",
@@ -48,7 +48,7 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-19T18:05:02.103807"
+    "generated_at": "2026-05-19T23:00:17.728429"
   },
-  "top_insight": "Best regime: UNKNOWN | Tribunal veto rate: 20% | Total trades: 22"
+  "top_insight": "Best regime: UNKNOWN | Tribunal veto rate: 22% | Total trades: 22"
 }
