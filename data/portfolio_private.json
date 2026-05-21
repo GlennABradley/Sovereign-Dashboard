@@ -2,15 +2,15 @@
   "cash": 81532.19,
   "start_of_day_value": 101467.57,
   "positions": {},
-  "last_updated": "2026-05-20T23:00:14.805156",
+  "last_updated": "2026-05-21T00:05:02.287507",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-20T23:00:14.805176"
+    "generated_at": "2026-05-21T00:05:02.287538"
   },
   "equity_cash": 81532.19,
-  "equity_pos_value": 20370.34,
+  "equity_pos_value": 20380.48,
   "crypto_pos_value": 0,
-  "combined_value": 101902.53,
+  "combined_value": 101912.67,
   "equity_positions": {
     "D": {
       "ticker": "D",
@@ -76,7 +76,7 @@
       "invalidation_signal": null,
       "symbol": "SATS",
       "qty": 39.0,
-      "live_price": 143.29
+      "live_price": 143.55
     }
   },
   "portfolio_snapshots": [
@@ -368,6 +368,11 @@
     {
       "date": "2026-05-20",
       "value": 101902.53,
+      "sod": 101467.57
+    },
+    {
+      "date": "2026-05-21",
+      "value": 101912.67,
       "sod": 101467.57
     }
   ]
