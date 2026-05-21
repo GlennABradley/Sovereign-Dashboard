@@ -8,10 +8,10 @@
       "signals": [
         "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-21T06:00:14.966215"
+      "timestamp": "2026-05-21T10:00:15.372654"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -24,7 +24,7 @@
         "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-21T06:00:18.059007"
+      "timestamp": "2026-05-21T10:00:19.277370"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -32,12 +32,12 @@
       "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "1H_ABOVE_EMA20"
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-21T06:00:11.265223"
+      "timestamp": "2026-05-21T10:00:11.521776"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -105,7 +105,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-21T06:00:24.104233"
+      "timestamp": "2026-05-21T10:00:25.758713"
     },
     "RENDER/USD": {
       "symbol": "RENDER/USD",
@@ -126,15 +126,15 @@
       "signals": [
         "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-05-21T06:00:20.980332"
+      "timestamp": "2026-05-21T10:00:22.528658"
     }
   },
-  "last_updated": "2026-05-21T06:05:01.882524",
+  "last_updated": "2026-05-21T10:05:03.196079",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-21T06:05:01.882546"
+    "generated_at": "2026-05-21T10:05:03.196109"
   }
 }
