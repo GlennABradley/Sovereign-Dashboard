@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:55:02.247368",
+  "last_updated": "2026-05-22T08:55:02.380127",
   "equity": {
     "total_trades": 19,
     "wins": 11,
@@ -17,8 +17,8 @@
       "symbol": "NTAP",
       "roi": -2.45
     },
-    "last_30d_trades": 7,
-    "last_30d_win_rate": 0.571
+    "last_30d_trades": 5,
+    "last_30d_win_rate": 0.4
   },
   "crypto": {
     "total_trades": 3,
@@ -46,12 +46,6 @@
     "edge": "Equity GOAT leads: 72 vs 2"
   },
   "commissioner_decisions": [
-    {
-      "date": "2026-04-15",
-      "equity_weight": 0.85,
-      "crypto_weight": 0.15,
-      "leader": "EQUITY"
-    },
     {
       "date": "2026-04-16",
       "equity_weight": 0.8,
@@ -225,10 +219,16 @@
       "equity_weight": 0.8,
       "crypto_weight": 0.2,
       "leader": "TIED"
+    },
+    {
+      "date": "2026-05-22",
+      "equity_weight": 0.8,
+      "crypto_weight": 0.2,
+      "leader": "TIED"
     }
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-22T08:12:26.861430"
+    "generated_at": "2026-05-22T09:02:51.400991"
   }
 }

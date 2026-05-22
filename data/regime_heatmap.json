@@ -388,9 +388,9 @@
     },
     {
       "date": "2026-05-22",
-      "regime": "",
-      "vix": 0,
-      "fear_greed": 0,
+      "regime": "BULL_LOW_VOL",
+      "vix": 16.8,
+      "fear_greed": 28,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -406,7 +406,7 @@
       "win_rate": 0.625
     },
     "BULL_LOW_VOL": {
-      "days": 1,
+      "days": 2,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -414,5 +414,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-22T08:12:26.855121"
+  "generated_at": "2026-05-22T09:02:51.397159"
 }
