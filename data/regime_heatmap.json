@@ -1,22 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-17",
-      "regime": "CHOPPY_RANGING",
-      "vix": 17.7,
-      "fear_greed": 21,
-      "trades": 1,
-      "wins": 1,
-      "losses": 0,
-      "trade_list": [
-        {
-          "ticker": "ANET",
-          "outcome": "WIN",
-          "pnl_pct": 3.36
-        }
-      ]
-    },
-    {
       "date": "2026-04-18",
       "regime": "",
       "vix": 0,
@@ -401,15 +385,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-22",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 24,
-      "trades": 9,
-      "wins": 6,
+      "days": 23,
+      "trades": 8,
+      "wins": 5,
       "losses": 2,
-      "win_rate": 0.667
+      "win_rate": 0.625
     },
     "BULL_LOW_VOL": {
       "days": 1,
@@ -420,5 +414,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-21T14:30:09.828778"
+  "generated_at": "2026-05-22T08:12:26.855121"
 }
