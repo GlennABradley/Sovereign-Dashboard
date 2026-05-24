@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T18:00:37.973441",
+  "generated_at": "2026-05-23T23:00:11.271466",
   "macro_pulse_score": 0.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
@@ -9,9 +9,9 @@
     "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-05-22",
-    "value": 28,
-    "label": "Fear"
+    "date": "2026-05-23",
+    "value": 25,
+    "label": "Extreme Fear"
   },
   "fg_history_count": 365,
   "aaii_sentiment": {
