@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T13:18:29.348351",
-  "macro_pulse_score": 0.0,
+  "generated_at": "2026-05-25T23:00:22.472222",
+  "macro_pulse_score": -1.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
     "vix_spot": 16.59,
@@ -9,8 +9,8 @@
     "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-05-24",
-    "value": 30,
+    "date": "2026-05-25",
+    "value": 34,
     "label": "Fear"
   },
   "fg_history_count": 365,

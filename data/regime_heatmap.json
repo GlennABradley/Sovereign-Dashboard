@@ -1,27 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-21",
-      "regime": "CHOPPY_RANGING",
-      "vix": 20.0,
-      "fear_greed": 33,
-      "trades": 2,
-      "wins": 2,
-      "losses": 0,
-      "trade_list": [
-        {
-          "ticker": "DELL",
-          "outcome": "WIN",
-          "pnl_pct": 5.34
-        },
-        {
-          "ticker": "ORCL",
-          "outcome": "WIN",
-          "pnl_pct": 4.21
-        }
-      ]
-    },
-    {
       "date": "2026-04-22",
       "regime": "CHOPPY_RANGING",
       "vix": 19.0,
@@ -389,15 +368,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-26",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 22,
-      "trades": 7,
-      "wins": 4,
+      "days": 21,
+      "trades": 5,
+      "wins": 2,
       "losses": 2,
-      "win_rate": 0.571
+      "win_rate": 0.4
     },
     "BULL_LOW_VOL": {
       "days": 2,
@@ -408,5 +397,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-25T23:00:05.121381"
+  "generated_at": "2026-05-26T00:05:02.066148"
 }
