@@ -1,20 +1,20 @@
 {
-  "ts": "2026-05-26T11:50:00.531395",
-  "generated": "11:50:00 AM",
+  "ts": "2026-05-26T11:55:01.185640",
+  "generated": "11:55:01 AM",
   "paper": {
-    "equity": 102509.61,
+    "equity": 102508.52,
     "cash": 95137.43,
-    "day_pnl": 13.3,
-    "day_pnl_pct": 0.013,
+    "day_pnl": 12.21,
+    "day_pnl_pct": 0.012,
     "positions": [
       {
         "sym": "D",
         "qty": 109.1043,
-        "price": 67.57,
+        "price": 67.56,
         "entry": 67.33,
-        "pnl_pct": 0.36,
-        "pnl": 26.19,
-        "mkt_val": 7372.18
+        "pnl_pct": 0.34,
+        "pnl": 25.09,
+        "mkt_val": 7371.09
       }
     ]
   },
