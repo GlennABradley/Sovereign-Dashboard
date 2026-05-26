@@ -35,6 +35,13 @@
     "ACCUMULATION_FEAR": {
       "win_rate": 0,
       "n": 1
+    },
+    "BULL_LOW_VOL": {
+      "wins": 1,
+      "total": 1,
+      "avg_pnl": 0.0469,
+      "win_rate": 1.0,
+      "last_fast_update": "2026-05-26T09:07"
     }
   },
   "hold_time_stats": {

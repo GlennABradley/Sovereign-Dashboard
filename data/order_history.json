@@ -17,6 +17,23 @@
     "timestamp": "?"
   },
   {
+    "date": "2026-05-26",
+    "ticker": "HPE",
+    "symbol": "HPE",
+    "bot": "equity",
+    "side": "SELL",
+    "action": "SELL",
+    "entry": 33.07,
+    "exit": 38.2406,
+    "pnl": 1137.76,
+    "pct": 15.64,
+    "outcome": "WIN",
+    "hold_days": 11,
+    "reason": "Take profit 2 hit: +15.6%",
+    "regime": "BULL_LOW_VOL",
+    "timestamp": "2026-05-26"
+  },
+  {
     "date": "2026-05-14",
     "ticker": "PANW",
     "symbol": "PANW",

@@ -371,13 +371,19 @@
     },
     {
       "date": "2026-05-26",
-      "regime": "",
-      "vix": 0,
-      "fear_greed": 0,
-      "trades": 0,
-      "wins": 0,
+      "regime": "BULL_LOW_VOL",
+      "vix": 16.7,
+      "fear_greed": 34,
+      "trades": 1,
+      "wins": 1,
       "losses": 0,
-      "trade_list": []
+      "trade_list": [
+        {
+          "ticker": "HPE",
+          "outcome": "WIN",
+          "pnl_pct": 15.64
+        }
+      ]
     }
   ],
   "regime_summary": {
@@ -389,13 +395,13 @@
       "win_rate": 0.4
     },
     "BULL_LOW_VOL": {
-      "days": 2,
-      "trades": 0,
-      "wins": 0,
+      "days": 3,
+      "trades": 1,
+      "wins": 1,
       "losses": 0,
-      "win_rate": 0
+      "win_rate": 1.0
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-26T06:05:02.750520"
+  "generated_at": "2026-05-26T09:08:02.244332"
 }
