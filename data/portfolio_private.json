@@ -2,15 +2,15 @@
   "cash": 86843.98,
   "start_of_day_value": 102496.31,
   "positions": {},
-  "last_updated": "2026-05-24T23:00:23.513243",
+  "last_updated": "2026-05-25T23:00:05.107509",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-24T23:00:23.513287"
+    "generated_at": "2026-05-25T23:00:05.107545"
   },
   "equity_cash": 86843.98,
-  "equity_pos_value": 15652.34,
+  "equity_pos_value": 15739.7,
   "crypto_pos_value": 0,
-  "combined_value": 102496.31,
+  "combined_value": 102583.68,
   "equity_positions": {
     "D": {
       "ticker": "D",
@@ -32,7 +32,7 @@
       "invalidation_signal": "Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high.",
       "symbol": "D",
       "qty": 109.1043,
-      "live_price": 67.67
+      "live_price": 67.18
     },
     "HPE": {
       "ticker": "HPE",
@@ -54,7 +54,7 @@
       "invalidation_signal": "Close below $31.80 (4.1% stop) OR XLK momentum rolls below +2.0 OR RS drops below 4.0x SPY intraday.",
       "symbol": "HPE",
       "qty": 220.0438,
-      "live_price": 37.58
+      "live_price": 38.22
     }
   },
   "portfolio_snapshots": [
@@ -366,6 +366,11 @@
     {
       "date": "2026-05-24",
       "value": 102496.31,
+      "sod": 102496.31
+    },
+    {
+      "date": "2026-05-25",
+      "value": 102583.68,
       "sod": 102496.31
     }
   ]

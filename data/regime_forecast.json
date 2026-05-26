@@ -13,7 +13,7 @@
   "method": "heuristic",
   "n_training_samples": 0,
   "feature_snapshot": {
-    "vix_level": 16.7,
+    "vix_level": 16.59,
     "vix_above_25": 0,
     "vix_above_30": 0,
     "credit_spread": 350.0,
@@ -28,6 +28,6 @@
     "fear_greed": 50.0,
     "extreme_fear": 0
   },
-  "generated_at": "2026-05-24T23:00:10.500240",
-  "valid_until": "2026-05-27T23:00:10.500247"
+  "generated_at": "2026-05-25T13:19:08.214791",
+  "valid_until": "2026-05-28T13:19:08.214795"
 }

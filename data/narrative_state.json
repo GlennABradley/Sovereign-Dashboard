@@ -1,25 +1,46 @@
 {
-  "generated_at": "2026-05-23T18:00:03.826282",
+  "generated_at": "2026-05-25T13:17:36.302340",
   "headlines_scanned": 140,
-  "active_narratives": [],
+  "active_narratives": [
+    {
+      "theme": "energy_oil",
+      "label": "Energy / Oil",
+      "velocity": 2.0,
+      "today_count": 6,
+      "urgency": "FORMING",
+      "direction": "BULLISH_ENERGY",
+      "sectors": [
+        "XLE",
+        "XOP"
+      ],
+      "equities": [
+        "XOM",
+        "CVX",
+        "SLB",
+        "COP",
+        "EOG"
+      ],
+      "crypto": []
+    }
+  ],
   "all_velocities": {
-    "tariff_trade_war": 1.0,
-    "ai_tech_boom": 0.84,
+    "tariff_trade_war": 0.52,
+    "ai_tech_boom": 1.13,
     "rate_cut_cycle": 1.0,
-    "energy_oil": 1.67,
+    "energy_oil": 2.0,
     "crypto_regulation": 1.0,
     "recession_fear": 1.0,
     "defi_crypto_cycle": 1.0,
-    "geopolitical_risk": 1.06
+    "geopolitical_risk": 0.92
   },
   "all_counts": {
-    "tariff_trade_war": 4,
-    "ai_tech_boom": 6,
-    "rate_cut_cycle": 4,
-    "energy_oil": 5,
+    "tariff_trade_war": 2,
+    "ai_tech_boom": 8,
+    "rate_cut_cycle": 3,
+    "energy_oil": 6,
     "crypto_regulation": 0,
     "recession_fear": 0,
     "defi_crypto_cycle": 0,
-    "geopolitical_risk": 17
+    "geopolitical_risk": 15
   }
 }

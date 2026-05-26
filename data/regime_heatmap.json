@@ -1,22 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-20",
-      "regime": "CHOPPY_RANGING",
-      "vix": 19.2,
-      "fear_greed": 29,
-      "trades": 1,
-      "wins": 1,
-      "losses": 0,
-      "trade_list": [
-        {
-          "ticker": "CSX",
-          "outcome": "WIN",
-          "pnl_pct": 2.5
-        }
-      ]
-    },
-    {
       "date": "2026-04-21",
       "regime": "CHOPPY_RANGING",
       "vix": 20.0,
@@ -395,15 +379,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-25",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 23,
-      "trades": 8,
-      "wins": 5,
+      "days": 22,
+      "trades": 7,
+      "wins": 4,
       "losses": 2,
-      "win_rate": 0.625
+      "win_rate": 0.571
     },
     "BULL_LOW_VOL": {
       "days": 2,
@@ -414,5 +408,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-24T23:00:23.535535"
+  "generated_at": "2026-05-25T23:00:05.121381"
 }
