@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T23:00:16.793845",
-  "total_trades": 22,
+  "generated_at": "2026-05-26T23:00:11.575599",
+  "total_trades": 23,
   "confluence_stats": {
     "4": {
       "win_rate": 0.667,
@@ -28,6 +28,10 @@
       "win_rate": 1,
       "n": 1
     },
+    "BULL_LOW_VOL": {
+      "win_rate": 1,
+      "n": 1
+    },
     "ACCUMULATION_EXTREME_FEAR": {
       "win_rate": 0.5,
       "n": 2
@@ -35,13 +39,6 @@
     "ACCUMULATION_FEAR": {
       "win_rate": 0,
       "n": 1
-    },
-    "BULL_LOW_VOL": {
-      "wins": 1,
-      "total": 1,
-      "avg_pnl": 0.0469,
-      "win_rate": 1.0,
-      "last_fast_update": "2026-05-26T09:07"
     }
   },
   "hold_time_stats": {
@@ -51,7 +48,7 @@
     },
     "6-14d": {
       "win_rate": 1,
-      "n": 3
+      "n": 4
     },
     "2-5d": {
       "win_rate": 0.5,
@@ -72,10 +69,10 @@
     "5/5 confluence \u2192 60% WR (n=5)",
     "4/5 confluence \u2192 67% WR (n=3)",
     "UNKNOWN regime \u2192 100% WR (n=1)",
+    "BULL_LOW_VOL regime \u2192 100% WR (n=1)",
     "BEAR_HIGH_VOL regime \u2192 75% WR (n=4)",
     "CHOPPY_RANGING regime \u2192 64% WR (n=11)",
     "ACCUMULATION_EXTREME_FEAR regime \u2192 50% WR (n=2)",
-    "CHECK regime \u2192 0% WR (n=3)",
-    "ACCUMULATION_FEAR regime \u2192 0% WR (n=1)"
+    "CHECK regime \u2192 0% WR (n=3)"
   ]
 }

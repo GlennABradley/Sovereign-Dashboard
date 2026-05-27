@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-22",
-      "regime": "CHOPPY_RANGING",
-      "vix": 19.0,
-      "fear_greed": 32,
-      "trades": 0,
-      "wins": 0,
-      "losses": 0,
-      "trade_list": []
-    },
-    {
       "date": "2026-04-23",
       "regime": "CHOPPY_RANGING",
       "vix": 19.6,
@@ -384,11 +374,21 @@
           "pnl_pct": 15.64
         }
       ]
+    },
+    {
+      "date": "2026-05-27",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 21,
+      "days": 20,
       "trades": 5,
       "wins": 2,
       "losses": 2,
@@ -403,5 +403,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-26T23:00:04.274773"
+  "generated_at": "2026-05-27T00:05:03.024562"
 }

@@ -89,12 +89,32 @@
       "adopted_at": null,
       "rejected_at": null,
       "notes": []
+    },
+    "hold_time_edge_6-14d": {
+      "type": "hold_time",
+      "win_rate": 1.0,
+      "n": 4,
+      "avg_pnl": 6.105,
+      "description": "Hold time 6-14d: 100% WR, avg +6.11%",
+      "proposed_rule": "Prefer 6-14d hold windows. Avoid exiting before 6 days.",
+      "condition": "trade_type == 'swing' and target_hold_bucket == '6-14d'",
+      "action": "preferred_hold='6-14d'",
+      "proposal_id": "hold_time_edge_6-14d",
+      "status": "PROPOSED",
+      "proposed_at": "2026-05-26T23:00:30.536806",
+      "validating_trades": 0,
+      "validating_wins": 0,
+      "adopted_at": null,
+      "rejected_at": null,
+      "notes": []
     }
   },
-  "last_run": "2026-05-25T23:00:38.641308",
-  "total": 5,
+  "last_run": "2026-05-26T23:00:30.538060",
+  "total": 6,
   "adopted": 0,
   "validating": 2,
-  "proposed": 3,
-  "changes": []
+  "proposed": 4,
+  "changes": [
+    "NEW: hold_time_edge_6-14d"
+  ]
 }
