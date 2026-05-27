@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-26T08:55:02.098826",
+  "last_updated": "2026-05-26T23:00:02.465205",
   "equity": {
-    "total_trades": 19,
-    "wins": 11,
+    "total_trades": 20,
+    "wins": 12,
     "losses": 6,
-    "win_rate": 0.579,
-    "sharpe_proxy": 0.45,
-    "current_streak": 1,
+    "win_rate": 0.6,
+    "sharpe_proxy": 0.48,
+    "current_streak": 2,
     "streak_type": "WIN",
-    "avg_roi": 1.448,
+    "avg_roi": 2.158,
     "best_trade": {
-      "symbol": "PANW",
-      "roi": 7.12
+      "symbol": "HPE",
+      "roi": 15.64
     },
     "worst_trade": {
       "symbol": "NTAP",
       "roi": -2.45
     },
-    "last_30d_trades": 3,
-    "last_30d_win_rate": 0.667
+    "last_30d_trades": 4,
+    "last_30d_win_rate": 0.75
   },
   "crypto": {
     "total_trades": 3,
@@ -41,9 +41,9 @@
   },
   "competition": {
     "leader": "EQUITY",
-    "equity_score": 72.38,
+    "equity_score": 81.58,
     "crypto_score": 2.07,
-    "edge": "Equity GOAT leads: 72 vs 2"
+    "edge": "Equity GOAT leads: 82 vs 2"
   },
   "commissioner_decisions": [
     {
@@ -229,6 +229,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-26T18:05:02.916316"
+    "generated_at": "2026-05-26T23:00:04.278913"
   }
 }
