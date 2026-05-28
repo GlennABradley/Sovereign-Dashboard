@@ -1,27 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-04-23",
-      "regime": "CHOPPY_RANGING",
-      "vix": 19.6,
-      "fear_greed": 46,
-      "trades": 2,
-      "wins": 0,
-      "losses": 2,
-      "trade_list": [
-        {
-          "ticker": "SNPS",
-          "outcome": "LOSS",
-          "pnl_pct": -1.72
-        },
-        {
-          "ticker": "NTAP",
-          "outcome": "LOSS",
-          "pnl_pct": -2.45
-        }
-      ]
-    },
-    {
       "date": "2026-04-24",
       "regime": "CHOPPY_RANGING",
       "vix": 18.8,
@@ -384,15 +363,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-05-28",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 20,
-      "trades": 5,
+      "days": 19,
+      "trades": 3,
       "wins": 2,
-      "losses": 2,
-      "win_rate": 0.4
+      "losses": 0,
+      "win_rate": 0.667
     },
     "BULL_LOW_VOL": {
       "days": 4,
@@ -403,5 +392,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-05-27T23:00:03.679699"
+  "generated_at": "2026-05-28T00:05:01.861012"
 }

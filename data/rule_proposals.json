@@ -109,12 +109,10 @@
       "notes": []
     }
   },
-  "last_run": "2026-05-26T23:00:30.538060",
+  "last_run": "2026-05-27T23:00:24.360455",
   "total": 6,
   "adopted": 0,
   "validating": 2,
   "proposed": 4,
-  "changes": [
-    "NEW: hold_time_edge_6-14d"
-  ]
+  "changes": []
 }
