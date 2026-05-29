@@ -2,15 +2,15 @@
   "cash": 95137.39,
   "start_of_day_value": 102488.84,
   "positions": {},
-  "last_updated": "2026-05-29T17:00:02.464924",
+  "last_updated": "2026-05-29T18:05:02.079409",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-05-29T17:00:02.464945"
+    "generated_at": "2026-05-29T18:05:02.079429"
   },
   "equity_cash": 95137.39,
-  "equity_pos_value": 7303.44,
+  "equity_pos_value": 7246.71,
   "crypto_pos_value": 0,
-  "combined_value": 102440.83,
+  "combined_value": 102384.1,
   "equity_positions": {
     "D": {
       "ticker": "D",
@@ -32,7 +32,7 @@
       "invalidation_signal": "Close below $65.54 (2.25% stop) OR Consumer Staples sector momentum drops below 0.0 OR RSI diverges negative on price new high.",
       "symbol": "D",
       "qty": 109.1043,
-      "live_price": 66.94
+      "live_price": 66.42
     }
   },
   "portfolio_snapshots": [
@@ -368,7 +368,7 @@
     },
     {
       "date": "2026-05-29",
-      "value": 102440.83,
+      "value": 102384.1,
       "sod": 102488.84
     }
   ]
