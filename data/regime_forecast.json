@@ -11,15 +11,15 @@
   "size_modifier": 1.0,
   "max_position_override": null,
   "method": "heuristic",
-  "n_training_samples": 46,
+  "n_training_samples": 47,
   "feature_snapshot": {
-    "vix_level": 15.32,
+    "vix_level": 16.05,
     "vix_above_25": 0,
     "vix_above_30": 0,
     "credit_spread": 350.0,
     "credit_elevated": 0,
     "spy_momentum_20d": 0.0526,
-    "spy_vs_200ma": 0.0965,
+    "spy_vs_200ma": 0.103,
     "spy_below_200ma": 0,
     "breadth": 0.5,
     "breadth_weak": 0,
@@ -28,6 +28,6 @@
     "fear_greed": 50.0,
     "extreme_fear": 0
   },
-  "generated_at": "2026-05-31T23:00:19.247051",
-  "valid_until": "2026-06-03T23:00:19.247058"
+  "generated_at": "2026-06-01T23:00:12.875627",
+  "valid_until": "2026-06-04T23:00:12.875630"
 }

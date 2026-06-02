@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-05-31T23:00:11.914072",
+  "ran_at": "2026-06-01T23:00:10.638909",
   "loops": {
     "da_outcomes": {
       "status": "ok",
@@ -7,8 +7,8 @@
         "filled_outcomes": 11,
         "summary": "=== DEVIL'S ADVOCATE ACCURACY (11 total decisions) ===\nApproved trades (11): 64% won | avg P&L +1.85%\n  CAUTIOUS subset (11): 64% win rate\n"
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "tribunal_accuracy": {
       "status": "ok",
@@ -21,8 +21,8 @@
         },
         "graded": 112
       },
-      "total_runs": 49,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 50,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "signal_calibration": {
       "status": "ok",
@@ -30,8 +30,8 @@
         "trades": 23,
         "insights": 8
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "performance_feedback": {
       "status": "ok",
@@ -41,26 +41,26 @@
         "momentum": "POSITIVE",
         "record": "3W/2L (last 5)"
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "portfolio_snapshot": {
       "status": "ok",
       "result": {
-        "today_value": 102477.93,
-        "snapshot_count": 69,
+        "today_value": 102322.83,
+        "snapshot_count": 70,
         "today_updated": true
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "cross_bot_intel": {
       "status": "ok",
       "result": {
         "updated": true
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "backfill_engine": {
       "status": "ok",
@@ -73,8 +73,8 @@
         },
         "tribunal_entries": 0
       },
-      "total_runs": 40,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 41,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "exit_intelligence": {
       "status": "ok",
@@ -82,27 +82,27 @@
         "total_signals": 0,
         "urgent": 0
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "position_aging": {
       "status": "ok",
       "result": {
-        "positions": 1,
-        "urgent": 1,
+        "positions": 0,
+        "urgent": 0,
         "amber": 0
       },
-      "total_runs": 50,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 51,
+      "last_run": "2026-06-01T23:00:10.638909"
     },
     "correlation": {
       "status": "ok",
       "result": {
         "risk_level": "LOW",
-        "summary": "\n=== PORTFOLIO CORRELATION MAP ===\n  1 equity positions \u2014 macro factor exposure:\n  D     : Unknown | MV=$7,341\n=== END CORRELATION MAP ==="
+        "summary": ""
       },
-      "total_runs": 49,
-      "last_run": "2026-05-31T23:00:11.914072"
+      "total_runs": 50,
+      "last_run": "2026-06-01T23:00:10.638909"
     }
   },
   "freshness": {
@@ -148,9 +148,9 @@
         "fresh": true
       },
       "correlation_state.json": {
-        "age_hours": 29.0,
+        "age_hours": 23.0,
         "max_hours": 26,
-        "fresh": false
+        "fresh": true
       },
       "performance_attribution.json": {
         "age_hours": 23.0,
@@ -163,12 +163,12 @@
         "fresh": true
       },
       "backtest_results/backtest_latest.json": {
-        "age_hours": 1239.9,
+        "age_hours": 1263.9,
         "max_hours": 168,
         "fresh": false
       },
       "regime_forecast.json": {
-        "age_hours": 783.6,
+        "age_hours": 807.6,
         "max_hours": 26,
         "fresh": false
       },
@@ -188,7 +188,7 @@
         "fresh": false
       },
       "narrative_causal_map.json": {
-        "age_hours": 638.4,
+        "age_hours": 662.4,
         "max_hours": 26,
         "fresh": false
       },
@@ -199,11 +199,10 @@
       }
     },
     "stale": [
-      "correlation_state.json (29h > 26h)",
-      "backtest_results/backtest_latest.json (1240h > 168h)",
-      "regime_forecast.json (784h > 26h)",
-      "narrative_causal_map.json (638h > 26h)"
+      "backtest_results/backtest_latest.json (1264h > 168h)",
+      "regime_forecast.json (808h > 26h)",
+      "narrative_causal_map.json (662h > 26h)"
     ]
   },
-  "elapsed_seconds": 6.5
+  "elapsed_seconds": 1.5
 }
