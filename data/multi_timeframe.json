@@ -11,7 +11,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-08T06:00:13.846679"
+      "timestamp": "2026-06-08T10:00:16.731185"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -24,7 +24,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-08T06:00:16.689992"
+      "timestamp": "2026-06-08T10:00:20.020152"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -37,7 +37,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-08T06:00:10.002283"
+      "timestamp": "2026-06-08T10:00:12.761902"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -132,9 +132,9 @@
       "timestamp": "2026-05-21T10:00:22.528658"
     }
   },
-  "last_updated": "2026-06-08T09:07:45.168801",
+  "last_updated": "2026-06-08T10:05:02.356252",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-08T09:07:45.168812"
+    "generated_at": "2026-06-08T10:05:02.356288"
   }
 }
