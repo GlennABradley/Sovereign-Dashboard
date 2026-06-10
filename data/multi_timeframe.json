@@ -10,7 +10,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-06-10T00:00:15.065941"
+      "timestamp": "2026-06-10T06:00:15.301399"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -22,19 +22,16 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-06-10T00:00:18.400122"
+      "timestamp": "2026-06-10T06:00:18.292959"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
-      ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-10T00:00:10.899139"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-06-10T06:00:11.355148"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -129,9 +126,9 @@
       "timestamp": "2026-05-21T10:00:22.528658"
     }
   },
-  "last_updated": "2026-06-10T00:05:03.104959",
+  "last_updated": "2026-06-10T06:05:03.376168",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-10T00:05:03.104984"
+    "generated_at": "2026-06-10T06:05:03.376185"
   }
 }
