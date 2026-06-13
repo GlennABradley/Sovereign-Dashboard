@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-12T03:01:50.012213",
-  "macro_pulse_score": 2.0,
-  "interpretation": "MODERATELY_BULLISH",
+  "generated_at": "2026-06-12T23:00:14.633738",
+  "macro_pulse_score": 0.0,
+  "interpretation": "NEUTRAL",
   "vix_term_structure": {
-    "vix_spot": 19.44,
+    "vix_spot": 17.68,
     "vxv_3m": 21.0,
-    "ratio": 0.9257,
-    "signal": "NORMAL"
+    "ratio": 0.8419,
+    "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-06-11",
-    "value": 12,
+    "date": "2026-06-12",
+    "value": 13,
     "label": "Extreme Fear"
   },
   "fg_history_count": 365,
@@ -24,10 +24,10 @@
     "fetched_at": "2026-06-08T03:01:53.167438"
   },
   "cboe_pc": {
-    "put_call": 0.811,
+    "put_call": 0.834,
     "signal": "CALM",
-    "as_of": "2026-06-12",
-    "put_vol": 1018138,
-    "call_vol": 1255538
+    "as_of": "2026-06-15",
+    "put_vol": 586853,
+    "call_vol": 703325
   }
 }
