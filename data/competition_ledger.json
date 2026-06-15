@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T23:00:02.361515",
+  "last_updated": "2026-06-14T23:00:03.129165",
   "equity": {
     "total_trades": 20,
     "wins": 12,
@@ -17,7 +17,7 @@
       "symbol": "NTAP",
       "roi": -2.45
     },
-    "last_30d_trades": 2,
+    "last_30d_trades": 1,
     "last_30d_win_rate": 1.0
   },
   "crypto": {
@@ -229,6 +229,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-14T18:05:02.738528"
+    "generated_at": "2026-06-14T23:00:05.248112"
   }
 }
