@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-06-13T23:00:10.927647",
+  "ran_at": "2026-06-14T23:00:12.839871",
   "loops": {
     "da_outcomes": {
       "status": "ok",
@@ -7,8 +7,8 @@
         "filled_outcomes": 11,
         "summary": "=== DEVIL'S ADVOCATE ACCURACY (11 total decisions) ===\nApproved trades (11): 64% won | avg P&L +1.85%\n  CAUTIOUS subset (11): 64% win rate\n"
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "tribunal_accuracy": {
       "status": "ok",
@@ -21,8 +21,8 @@
         },
         "graded": 112
       },
-      "total_runs": 59,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 60,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "signal_calibration": {
       "status": "ok",
@@ -30,8 +30,8 @@
         "trades": 23,
         "insights": 8
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "performance_feedback": {
       "status": "ok",
@@ -41,26 +41,26 @@
         "momentum": "POSITIVE",
         "record": "3W/2L (last 5)"
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "portfolio_snapshot": {
       "status": "ok",
       "result": {
         "today_value": 102322.81,
-        "snapshot_count": 82,
+        "snapshot_count": 83,
         "today_updated": true
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "cross_bot_intel": {
       "status": "ok",
       "result": {
         "updated": true
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "backfill_engine": {
       "status": "ok",
@@ -73,8 +73,8 @@
         },
         "tribunal_entries": 0
       },
-      "total_runs": 50,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 51,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "exit_intelligence": {
       "status": "ok",
@@ -82,8 +82,8 @@
         "total_signals": 0,
         "urgent": 0
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "position_aging": {
       "status": "ok",
@@ -92,8 +92,8 @@
         "urgent": 0,
         "amber": 0
       },
-      "total_runs": 60,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 61,
+      "last_run": "2026-06-14T23:00:12.839871"
     },
     "correlation": {
       "status": "ok",
@@ -101,8 +101,8 @@
         "risk_level": "LOW",
         "summary": ""
       },
-      "total_runs": 59,
-      "last_run": "2026-06-13T23:00:10.927647"
+      "total_runs": 60,
+      "last_run": "2026-06-14T23:00:12.839871"
     }
   },
   "freshness": {
@@ -148,9 +148,9 @@
         "fresh": true
       },
       "correlation_state.json": {
-        "age_hours": 17.0,
+        "age_hours": 41.0,
         "max_hours": 26,
-        "fresh": true
+        "fresh": false
       },
       "performance_attribution.json": {
         "age_hours": 23.0,
@@ -163,12 +163,12 @@
         "fresh": true
       },
       "backtest_results/backtest_latest.json": {
-        "age_hours": 1551.9,
+        "age_hours": 1575.9,
         "max_hours": 168,
         "fresh": false
       },
       "regime_forecast.json": {
-        "age_hours": 1095.6,
+        "age_hours": 1119.6,
         "max_hours": 26,
         "fresh": false
       },
@@ -188,7 +188,7 @@
         "fresh": false
       },
       "narrative_causal_map.json": {
-        "age_hours": 950.4,
+        "age_hours": 974.4,
         "max_hours": 26,
         "fresh": false
       },
@@ -199,10 +199,11 @@
       }
     },
     "stale": [
-      "backtest_results/backtest_latest.json (1552h > 168h)",
-      "regime_forecast.json (1096h > 26h)",
-      "narrative_causal_map.json (950h > 26h)"
+      "correlation_state.json (41h > 26h)",
+      "backtest_results/backtest_latest.json (1576h > 168h)",
+      "regime_forecast.json (1120h > 26h)",
+      "narrative_causal_map.json (974h > 26h)"
     ]
   },
-  "elapsed_seconds": 1.3
+  "elapsed_seconds": 1.1
 }
