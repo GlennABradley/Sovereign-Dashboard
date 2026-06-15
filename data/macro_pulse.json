@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T23:00:16.644074",
+  "generated_at": "2026-06-15T18:01:57.065974",
   "macro_pulse_score": 0.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
-    "vix_spot": 17.68,
+    "vix_spot": 16.2,
     "vxv_3m": 21.0,
-    "ratio": 0.8419,
+    "ratio": 0.7714,
     "signal": "COMPLACENT"
   },
   "fg_latest": {
@@ -15,19 +15,19 @@
   },
   "fg_history_count": 365,
   "aaii_sentiment": {
-    "bulls": 36.3,
-    "bears": 36.3,
-    "neutral": 36.3,
+    "bulls": 30.4,
+    "bears": 30.4,
+    "neutral": 30.4,
     "signal": "NEUTRAL",
-    "as_of": "2026-06-08",
+    "as_of": "2026-06-15",
     "source": "aaii.com",
-    "fetched_at": "2026-06-08T03:01:53.167438"
+    "fetched_at": "2026-06-15T18:01:56.607157"
   },
   "cboe_pc": {
-    "put_call": 0.834,
-    "signal": "CALM",
+    "put_call": 0.923,
+    "signal": "NEUTRAL",
     "as_of": "2026-06-15",
-    "put_vol": 586853,
-    "call_vol": 703325
+    "put_vol": 4648177,
+    "call_vol": 5037097
   }
 }
