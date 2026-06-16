@@ -3,23 +3,23 @@
   "forward_days": 3,
   "probabilities": {
     "BEAR": 0.0,
-    "BULL": 0.5,
-    "CHOPPY_RANGING": 0.3,
-    "CHECK": 0.2
+    "BULL": 0.6,
+    "CHOPPY_RANGING": 0.24,
+    "CHECK": 0.16
   },
   "action": "NEUTRAL",
   "size_modifier": 1.0,
   "max_position_override": null,
   "method": "heuristic",
-  "n_training_samples": 52,
+  "n_training_samples": 53,
   "feature_snapshot": {
-    "vix_level": 17.68,
+    "vix_level": 16.2,
     "vix_above_25": 0,
     "vix_above_30": 0,
     "credit_spread": 350.0,
     "credit_elevated": 0,
-    "spy_momentum_20d": -0.0086,
-    "spy_vs_200ma": 0.0852,
+    "spy_momentum_20d": 0.0212,
+    "spy_vs_200ma": 0.0986,
     "spy_below_200ma": 0,
     "breadth": 0.5,
     "breadth_weak": 0,
@@ -28,6 +28,6 @@
     "fear_greed": 50.0,
     "extreme_fear": 0
   },
-  "generated_at": "2026-06-14T23:00:14.681149",
-  "valid_until": "2026-06-17T23:00:14.681153"
+  "generated_at": "2026-06-15T23:00:15.581703",
+  "valid_until": "2026-06-18T23:00:15.581709"
 }
