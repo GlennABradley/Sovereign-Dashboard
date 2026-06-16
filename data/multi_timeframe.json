@@ -11,20 +11,16 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T10:00:16.649612"
+      "timestamp": "2026-06-16T18:00:17.432898"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 3,
-      "score": 3,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
-      ],
-      "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T10:00:20.253974"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-06-16T18:00:22.607217"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -37,7 +33,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T10:00:12.629764"
+      "timestamp": "2026-06-16T18:00:12.873693"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -102,10 +98,10 @@
       "signals": [
         "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T10:00:23.702316"
+      "timestamp": "2026-06-16T18:00:29.417548"
     },
     "RENDER/USD": {
       "symbol": "RENDER/USD",
@@ -133,21 +129,17 @@
     },
     "ADA/USD": {
       "symbol": "ADA/USD",
-      "intraday_score": 3,
-      "score": 3,
+      "intraday_score": 0,
+      "score": 0,
       "max_score": 6,
-      "signals": [
-        "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
-      ],
-      "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T10:00:27.643021"
+      "signals": [],
+      "sizing_mult": 0.25,
+      "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-16T17:00:02.063575",
+  "last_updated": "2026-06-16T18:05:02.482822",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-16T17:00:02.063596"
+    "generated_at": "2026-06-16T18:05:02.482850"
   }
 }
