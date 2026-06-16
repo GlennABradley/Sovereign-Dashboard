@@ -354,9 +354,9 @@
     },
     {
       "date": "2026-06-16",
-      "regime": "",
-      "vix": 0,
-      "fear_greed": 0,
+      "regime": "BEAR_HIGH_VOL",
+      "vix": 16.1,
+      "fear_greed": 23,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -379,7 +379,7 @@
       "win_rate": 1.0
     },
     "BEAR_HIGH_VOL": {
-      "days": 1,
+      "days": 2,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -387,5 +387,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-06-16T00:05:02.798190"
+  "generated_at": "2026-06-16T09:00:19.442503"
 }
