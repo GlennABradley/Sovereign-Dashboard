@@ -6,21 +6,24 @@
       "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "1H_ABOVE_EMA20"
+        "4H_RSI_HEALTHY",
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T18:00:17.432898"
+      "timestamp": "2026-06-17T00:02:15.306113"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-06-16T18:00:22.607217"
+      "signals": [
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
+      ],
+      "sizing_mult": 0.75,
+      "timestamp": "2026-06-17T00:02:18.602777"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -30,10 +33,10 @@
       "signals": [
         "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_EMA20_ABOVE_EMA50"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T18:00:12.873693"
+      "timestamp": "2026-06-17T00:02:11.526450"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -71,15 +74,16 @@
     },
     "XRP/USD": {
       "symbol": "XRP/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
-        "1H_ABOVE_EMA20"
+        "4H_EMA20_ABOVE_EMA50",
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-13T00:00:20.339677"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-17T00:02:24.994039"
     },
     "POL/USD": {
       "symbol": "POL/USD",
@@ -96,12 +100,12 @@
       "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_EMA20_ABOVE_EMA50",
-        "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-16T18:00:29.417548"
+      "timestamp": "2026-06-17T00:02:21.804465"
     },
     "RENDER/USD": {
       "symbol": "RENDER/USD",
@@ -137,9 +141,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-16T23:00:05.790564",
+  "last_updated": "2026-06-17T00:05:03.009837",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-16T23:00:05.790577"
+    "generated_at": "2026-06-17T00:05:03.009860"
   }
 }
