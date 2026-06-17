@@ -2,12 +2,15 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-06-17T10:00:17.394672"
+      "signals": [
+        "4H_RSI_HEALTHY",
+        "1H_RSI_HEALTHY"
+      ],
+      "sizing_mult": 0.75,
+      "timestamp": "2026-06-17T18:00:23.281356"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -19,7 +22,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-06-17T10:00:21.658214"
+      "timestamp": "2026-06-17T18:00:26.680859"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -31,7 +34,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-06-17T10:00:13.304301"
+      "timestamp": "2026-06-17T18:00:18.810808"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -77,7 +80,7 @@
         "1H_RSI_HEALTHY"
       ],
       "sizing_mult": 0.75,
-      "timestamp": "2026-06-17T10:00:28.806315"
+      "timestamp": "2026-06-17T18:00:34.589291"
     },
     "POL/USD": {
       "symbol": "POL/USD",
@@ -90,16 +93,15 @@
     },
     "ONDO/USD": {
       "symbol": "ONDO/USD",
-      "intraday_score": 3,
-      "score": 3,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
       "signals": [
-        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_ABOVE_EMA20"
+        "1H_EMA20_ABOVE_EMA50"
       ],
-      "sizing_mult": 1.0,
-      "timestamp": "2026-06-17T10:00:25.205158"
+      "sizing_mult": 0.75,
+      "timestamp": "2026-06-17T18:00:30.476451"
     },
     "RENDER/USD": {
       "symbol": "RENDER/USD",
@@ -135,9 +137,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-17T17:00:03.114280",
+  "last_updated": "2026-06-17T18:05:02.748271",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-17T17:00:03.114306"
+    "generated_at": "2026-06-17T18:05:02.748296"
   }
 }
