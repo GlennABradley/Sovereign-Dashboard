@@ -1,22 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-05-14",
-      "regime": "CHOPPY_RANGING",
-      "vix": 18.0,
-      "fear_greed": 34,
-      "trades": 1,
-      "wins": 1,
-      "losses": 0,
-      "trade_list": [
-        {
-          "ticker": "PANW",
-          "outcome": "WIN",
-          "pnl_pct": 7.04
-        }
-      ]
-    },
-    {
       "date": "2026-05-15",
       "regime": "CHOPPY_RANGING",
       "vix": 18.9,
@@ -361,15 +345,25 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-06-18",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "CHOPPY_RANGING": {
-      "days": 10,
-      "trades": 1,
-      "wins": 1,
+      "days": 9,
+      "trades": 0,
+      "wins": 0,
       "losses": 0,
-      "win_rate": 1.0
+      "win_rate": 0
     },
     "BULL_LOW_VOL": {
       "days": 9,
@@ -387,5 +381,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-06-17T23:00:04.753437"
+  "generated_at": "2026-06-18T06:05:03.075894"
 }
