@@ -2,10 +2,10 @@
   "cash": 102322.81,
   "start_of_day_value": 102322.81,
   "positions": {},
-  "last_updated": "2026-06-18T23:02:11.113350",
+  "last_updated": "2026-06-19T00:05:01.756092",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-18T23:02:11.113388"
+    "generated_at": "2026-06-19T00:05:01.756117"
   },
   "equity_cash": 102322.81,
   "equity_pos_value": 0,
@@ -445,6 +445,11 @@
     },
     {
       "date": "2026-06-18",
+      "value": 102322.81,
+      "sod": 102322.81
+    },
+    {
+      "date": "2026-06-19",
       "value": 102322.81,
       "sod": 102322.81
     }
