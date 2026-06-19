@@ -11,7 +11,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-19T10:00:10.757592"
+      "timestamp": "2026-06-19T18:00:11.154349"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -24,7 +24,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-19T10:00:15.912041"
+      "timestamp": "2026-06-19T18:00:13.987111"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -37,7 +37,7 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-19T10:00:06.717507"
+      "timestamp": "2026-06-19T18:00:08.049943"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -59,7 +59,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-19T10:00:23.138074"
+      "timestamp": "2026-06-19T18:00:16.412605"
     },
     "AVAX/USD": {
       "symbol": "AVAX/USD",
@@ -113,11 +113,11 @@
       "max_score": 6,
       "signals": [
         "4H_ABOVE_EMA20",
-        "4H_RSI_HEALTHY",
+        "4H_EMA20_ABOVE_EMA50",
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-19T10:00:29.427136"
+      "timestamp": "2026-06-19T18:00:18.830941"
     },
     "LINK/USD": {
       "symbol": "LINK/USD",
@@ -142,9 +142,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-19T17:00:02.808621",
+  "last_updated": "2026-06-19T18:05:02.061616",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-19T17:00:02.808650"
+    "generated_at": "2026-06-19T18:05:02.061655"
   }
 }
