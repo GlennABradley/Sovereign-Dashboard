@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-06-18T23:02:10.888213",
+  "checked_at": "2026-06-19T23:00:04.348201",
   "gates_passed": 6,
   "gates_total": 7,
   "all_pass": false,
   "readiness_pct": 86,
   "gates": {
     "paper_days": {
-      "value": 87,
+      "value": 88,
       "required": 90,
       "pass": false
     },
@@ -59,6 +59,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-19T18:05:02.076116"
+    "generated_at": "2026-06-19T23:00:04.531935"
   }
 }
