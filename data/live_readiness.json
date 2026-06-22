@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-06-19T23:00:04.348201",
-  "gates_passed": 6,
+  "checked_at": "2026-06-21T23:00:03.843903",
+  "gates_passed": 7,
   "gates_total": 7,
-  "all_pass": false,
-  "readiness_pct": 86,
+  "all_pass": true,
+  "readiness_pct": 100,
   "gates": {
     "paper_days": {
-      "value": 88,
+      "value": 90,
       "required": 90,
-      "pass": false
+      "pass": true
     },
     "min_trades": {
       "value": 23,
@@ -59,6 +59,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-21T17:00:08.562971"
+    "generated_at": "2026-06-21T23:00:04.025964"
   }
 }
