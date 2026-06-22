@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T10:00:24.775025",
-  "macro_pulse_score": -1.0,
+  "generated_at": "2026-06-21T23:00:11.010670",
+  "macro_pulse_score": 0.0,
   "interpretation": "NEUTRAL",
   "vix_term_structure": {
     "vix_spot": 16.78,
@@ -9,8 +9,8 @@
     "signal": "COMPLACENT"
   },
   "fg_latest": {
-    "date": "2026-06-19",
-    "value": 23,
+    "date": "2026-06-21",
+    "value": 20,
     "label": "Extreme Fear"
   },
   "fg_history_count": 365,
@@ -27,7 +27,7 @@
     "put_call": 1.116,
     "signal": "NEUTRAL",
     "as_of": "2026-06-22",
-    "put_vol": 697386,
-    "call_vol": 624972
+    "put_vol": 697390,
+    "call_vol": 624985
   }
 }
