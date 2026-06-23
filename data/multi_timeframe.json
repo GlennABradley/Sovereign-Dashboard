@@ -7,7 +7,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T06:00:13.888851"
+      "timestamp": "2026-06-23T10:00:16.658040"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
@@ -16,7 +16,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T06:00:10.573915"
+      "timestamp": "2026-06-23T10:00:12.169412"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
@@ -25,7 +25,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T06:00:16.888506"
+      "timestamp": "2026-06-23T10:00:24.337663"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -47,19 +47,20 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T06:00:19.892996"
+      "timestamp": "2026-06-23T10:00:40.043649"
     },
     "AVAX/USD": {
       "symbol": "AVAX/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-05-15T18:00:24.241268"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-23T10:00:36.435734"
     },
     "XRP/USD": {
       "symbol": "XRP/USD",
@@ -127,9 +128,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-23T09:00:55.366275",
+  "last_updated": "2026-06-23T10:05:02.547188",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-23T09:00:55.366288"
+    "generated_at": "2026-06-23T10:05:02.547230"
   }
 }
