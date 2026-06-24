@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T08:55:02.679562",
+  "last_updated": "2026-06-23T23:00:01.941725",
   "equity": {
     "total_trades": 20,
     "wins": 12,
@@ -229,6 +229,6 @@
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-23T18:05:02.937105"
+    "generated_at": "2026-06-23T23:00:03.898038"
   }
 }
