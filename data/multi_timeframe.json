@@ -2,36 +2,42 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 0,
-      "score": 0,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
-      "signals": [],
-      "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T18:00:17.104521"
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-24T00:00:11.494290"
     },
     "BTC/USD": {
       "symbol": "BTC/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-23T18:00:13.104358"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-24T00:00:07.229931"
     },
     "SOL/USD": {
       "symbol": "SOL/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-23T18:00:26.884501"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-24T00:00:13.606010"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -53,7 +59,7 @@
       "max_score": 6,
       "signals": [],
       "sizing_mult": 0.25,
-      "timestamp": "2026-06-23T18:00:41.559620"
+      "timestamp": "2026-06-24T00:00:15.970911"
     },
     "AVAX/USD": {
       "symbol": "AVAX/USD",
@@ -113,16 +119,15 @@
     },
     "LINK/USD": {
       "symbol": "LINK/USD",
-      "intraday_score": 3,
-      "score": 3,
+      "intraday_score": 2,
+      "score": 2,
       "max_score": 6,
       "signals": [
-        "4H_EMA20_ABOVE_EMA50",
         "4H_RSI_HEALTHY",
-        "1H_EMA20_ABOVE_EMA50"
+        "1H_RSI_HEALTHY"
       ],
-      "sizing_mult": 1.0,
-      "timestamp": "2026-06-15T18:02:29.282898"
+      "sizing_mult": 0.75,
+      "timestamp": "2026-06-24T00:00:18.399487"
     },
     "ADA/USD": {
       "symbol": "ADA/USD",
@@ -134,9 +139,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-23T23:00:03.891027",
+  "last_updated": "2026-06-24T00:05:02.185932",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-23T23:00:03.891043"
+    "generated_at": "2026-06-24T00:05:02.185957"
   }
 }
