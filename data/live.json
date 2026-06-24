@@ -1,9 +1,12 @@
 {
-  "ts": "2026-06-24T15:30:00.937170",
-  "generated": "03:30:00 PM",
+  "ts": "2026-06-24T15:35:00.401036",
+  "generated": "03:35:00 PM",
   "paper": {
-    "equity": 0,
-    "error": "HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exce"
+    "equity": 102322.81,
+    "cash": 102322.81,
+    "day_pnl": 0.0,
+    "day_pnl_pct": 0.0,
+    "positions": []
   },
   "live": {
     "equity": 0.0,
