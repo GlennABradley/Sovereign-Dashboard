@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-06-23T23:00:03.389281",
-  "gates_passed": 7,
+  "checked_at": "2026-06-24T23:00:03.896478",
+  "gates_passed": 6,
   "gates_total": 7,
-  "all_pass": true,
-  "readiness_pct": 100,
+  "all_pass": false,
+  "readiness_pct": 86,
   "gates": {
     "paper_days": {
-      "value": 92,
+      "value": 93,
       "required": 90,
       "pass": true
     },
@@ -36,9 +36,9 @@
       "pass": true
     },
     "tribunal_veto_rate": {
-      "value": 0.357,
+      "value": 0.417,
       "required": 0.4,
-      "pass": true
+      "pass": false
     }
   },
   "equity_stats": {
@@ -59,6 +59,6 @@
   },
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-24T18:05:02.839230"
+    "generated_at": "2026-06-24T23:00:04.051122"
   }
 }
