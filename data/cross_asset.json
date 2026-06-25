@@ -1,13 +1,13 @@
 {
-  "signal": "NEUTRAL",
-  "urgency": "LOW",
-  "btc_2h_change": 0.0005,
-  "btc_1h_change": 0.0001,
+  "signal": "DANGER",
+  "urgency": "HIGH",
+  "btc_2h_change": -0.0432,
+  "btc_1h_change": 0.0075,
   "btc_dominance": null,
-  "action": "No cross-asset signal",
-  "checked_at": "2026-06-25T06:00:32.124105",
+  "action": "BTC dropped -4.3% in 2h \u2014 alts likely to follow. Consider tightening stops or partial exits before cascade.",
+  "checked_at": "2026-06-25T10:00:48.424476",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-25T09:03:07.865173"
+    "generated_at": "2026-06-25T10:05:03.338505"
   }
 }
