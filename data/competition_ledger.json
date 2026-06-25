@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T23:00:02.398392",
+  "last_updated": "2026-06-25T08:55:03.162622",
   "equity": {
     "total_trades": 20,
     "wins": 12,
@@ -46,12 +46,6 @@
     "edge": "Equity GOAT leads: 82 vs 2"
   },
   "commissioner_decisions": [
-    {
-      "date": "2026-05-08",
-      "equity_weight": 0.82,
-      "crypto_weight": 0.18,
-      "leader": "EQUITY"
-    },
     {
       "date": "2026-05-11",
       "equity_weight": 0.82,
@@ -225,10 +219,16 @@
       "equity_weight": 0.8,
       "crypto_weight": 0.2,
       "leader": "TIED"
+    },
+    {
+      "date": "2026-06-25",
+      "equity_weight": 0.8,
+      "crypto_weight": 0.2,
+      "leader": "TIED"
     }
   ],
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-25T06:05:03.592852"
+    "generated_at": "2026-06-25T09:03:07.864474"
   }
 }
