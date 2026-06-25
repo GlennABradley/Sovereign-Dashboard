@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-05-21",
-      "regime": "CHOPPY_RANGING",
-      "vix": 17.7,
-      "fear_greed": 29,
-      "trades": 0,
-      "wins": 0,
-      "losses": 0,
-      "trade_list": []
-    },
-    {
       "date": "2026-05-22",
       "regime": "BULL_LOW_VOL",
       "vix": 16.8,
@@ -355,22 +345,32 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
-    }
-  ],
-  "regime_summary": {
-    "CHOPPY_RANGING": {
-      "days": 10,
+    },
+    {
+      "date": "2026-06-25",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
       "trades": 0,
       "wins": 0,
       "losses": 0,
-      "win_rate": 0
-    },
+      "trade_list": []
+    }
+  ],
+  "regime_summary": {
     "BULL_LOW_VOL": {
       "days": 9,
       "trades": 1,
       "wins": 1,
       "losses": 0,
       "win_rate": 1.0
+    },
+    "CHOPPY_RANGING": {
+      "days": 9,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "win_rate": 0
     },
     "BEAR_HIGH_VOL": {
       "days": 2,
@@ -381,5 +381,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-06-24T23:00:04.048573"
+  "generated_at": "2026-06-25T00:05:03.013703"
 }
