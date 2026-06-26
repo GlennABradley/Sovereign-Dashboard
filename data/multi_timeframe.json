@@ -2,30 +2,6 @@
   "symbols": {
     "ETH/USD": {
       "symbol": "ETH/USD",
-      "intraday_score": 2,
-      "score": 2,
-      "max_score": 6,
-      "signals": [
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
-      ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-26T06:00:06.963820"
-    },
-    "BTC/USD": {
-      "symbol": "BTC/USD",
-      "intraday_score": 2,
-      "score": 2,
-      "max_score": 6,
-      "signals": [
-        "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
-      ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-26T06:00:11.955371"
-    },
-    "SOL/USD": {
-      "symbol": "SOL/USD",
       "intraday_score": 3,
       "score": 3,
       "max_score": 6,
@@ -35,7 +11,33 @@
         "1H_ABOVE_EMA20"
       ],
       "sizing_mult": 1.0,
-      "timestamp": "2026-06-26T06:00:09.612264"
+      "timestamp": "2026-06-26T10:00:09.290713"
+    },
+    "BTC/USD": {
+      "symbol": "BTC/USD",
+      "intraday_score": 3,
+      "score": 3,
+      "max_score": 6,
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_RSI_HEALTHY",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-26T10:00:27.556230"
+    },
+    "SOL/USD": {
+      "symbol": "SOL/USD",
+      "intraday_score": 3,
+      "score": 3,
+      "max_score": 6,
+      "signals": [
+        "4H_ABOVE_EMA20",
+        "4H_EMA20_ABOVE_EMA50",
+        "1H_ABOVE_EMA20"
+      ],
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-26T10:00:21.752721"
     },
     "DOT/USD": {
       "symbol": "DOT/USD",
@@ -61,15 +63,16 @@
     },
     "AVAX/USD": {
       "symbol": "AVAX/USD",
-      "intraday_score": 2,
-      "score": 2,
+      "intraday_score": 3,
+      "score": 3,
       "max_score": 6,
       "signals": [
+        "4H_ABOVE_EMA20",
         "4H_RSI_HEALTHY",
-        "1H_RSI_HEALTHY"
+        "1H_ABOVE_EMA20"
       ],
-      "sizing_mult": 0.75,
-      "timestamp": "2026-06-26T06:00:14.264227"
+      "sizing_mult": 1.0,
+      "timestamp": "2026-06-26T10:00:34.022573"
     },
     "XRP/USD": {
       "symbol": "XRP/USD",
@@ -137,9 +140,9 @@
       "timestamp": "2026-06-16T18:00:37.264579"
     }
   },
-  "last_updated": "2026-06-26T09:00:43.975635",
+  "last_updated": "2026-06-26T10:05:02.608222",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-26T09:00:43.975661"
+    "generated_at": "2026-06-26T10:05:02.608249"
   }
 }
