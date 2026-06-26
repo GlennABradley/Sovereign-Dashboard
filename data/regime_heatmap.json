@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "date": "2026-05-22",
-      "regime": "BULL_LOW_VOL",
-      "vix": 16.8,
-      "fear_greed": 28,
-      "trades": 0,
-      "wins": 0,
-      "losses": 0,
-      "trade_list": []
-    },
-    {
       "date": "2026-05-23",
       "regime": "",
       "vix": 0,
@@ -355,11 +345,21 @@
       "wins": 0,
       "losses": 0,
       "trade_list": []
+    },
+    {
+      "date": "2026-06-26",
+      "regime": "",
+      "vix": 0,
+      "fear_greed": 0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "trade_list": []
     }
   ],
   "regime_summary": {
     "BULL_LOW_VOL": {
-      "days": 9,
+      "days": 8,
       "trades": 1,
       "wins": 1,
       "losses": 0,
@@ -381,5 +381,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-06-25T23:00:03.490432"
+  "generated_at": "2026-06-26T00:05:02.492855"
 }
