@@ -348,9 +348,9 @@
     },
     {
       "date": "2026-06-26",
-      "regime": "",
-      "vix": 0,
-      "fear_greed": 0,
+      "regime": "CHOPPY_RANGING",
+      "vix": 20.1,
+      "fear_greed": 13,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -366,7 +366,7 @@
       "win_rate": 1.0
     },
     "CHOPPY_RANGING": {
-      "days": 10,
+      "days": 11,
       "trades": 0,
       "wins": 0,
       "losses": 0,
@@ -381,5 +381,5 @@
     }
   },
   "total_days": 35,
-  "generated_at": "2026-06-26T06:05:01.913770"
+  "generated_at": "2026-06-26T09:00:43.982829"
 }
