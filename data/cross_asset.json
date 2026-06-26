@@ -1,13 +1,13 @@
 {
-  "signal": "CONFIRM_ENTRY",
+  "signal": "NEUTRAL",
   "urgency": "LOW",
-  "btc_2h_change": 0.0174,
-  "btc_1h_change": 0.001,
+  "btc_2h_change": 0.004,
+  "btc_1h_change": 0.0005,
   "btc_dominance": null,
-  "action": "BTC up 1.7% in 2h \u2014 confirms positive alt momentum.",
-  "checked_at": "2026-06-26T10:00:41.131977",
+  "action": "No cross-asset signal",
+  "checked_at": "2026-06-26T18:02:29.739547",
   "_meta": {
     "schema_version": 2,
-    "generated_at": "2026-06-26T17:00:01.995144"
+    "generated_at": "2026-06-26T18:05:02.276842"
   }
 }
