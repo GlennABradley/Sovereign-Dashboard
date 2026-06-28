@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T23:00:09.724510",
+  "generated_at": "2026-06-28T10:00:24.198597",
   "macro_pulse_score": 3.0,
   "interpretation": "MODERATELY_BULLISH",
   "vix_term_structure": {
@@ -9,8 +9,8 @@
     "signal": "NORMAL"
   },
   "fg_latest": {
-    "date": "2026-06-26",
-    "value": 15,
+    "date": "2026-06-27",
+    "value": 18,
     "label": "Extreme Fear"
   },
   "fg_history_count": 365,
